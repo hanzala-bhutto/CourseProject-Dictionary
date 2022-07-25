@@ -1,0 +1,3012 @@
+forget
+meaning: fail to remember.
+sentence: "he had forgotten his lines"
+
+work
+meaning: activity involving mental or physical effort done in order to achieve a purpose or result.
+sentence: "he was tired after a day's work"
+
+bemuse
+meaning: puzzle, confuse, or bewilder (someone).
+sentence: "he was bemused by what was happening"
+
+consider
+meaning: deem to be
+sentence: At the moment, artemisinin-based therapies are considered the best treatment, but cost about $10 per dose - far too much for impoverished communities.Seattle Times (Feb 16, 2012)
+minute
+meaning: infinitely or immeasurably small
+sentence: The minute stain on the document was not visible to the naked eye.
+accord
+meaning: concurrence of opinion
+sentence: The committee worked in accord on the bill, and it eventually passed.
+evident
+meaning: clearly revealed to the mind or the senses or judgment
+sentence: That confidence was certainly evident in the way Smith handled the winning play with 14 seconds left on the clock.
+practice
+meaning: a customary way of operation or behavior
+sentence: He directed and acted in plays every season and became known for exploring Elizabethan theatre practices.
+intend
+meaning: have in mind as a purpose
+sentence: "Lipstick, as a product intended for topical use with limited absorption, is ingested only in very small quantities," the agency said on its website.
+concern
+meaning: something that interests you because it is important
+sentence: The scandal broke out in October after former chief executive Michael Woodford claimed he was fired for raising concerns about the company's accounting practices.
+commit
+meaning: perform an act, usually with a negative connotation
+sentence: In an unprecedented front page article in 2003 The Times reported that Mr. Blair, a young reporter on its staff, had committed journalistic fraud.New York Times (Feb 15, 2012)
+issue
+meaning: some situation or event that is thought about
+sentence: As a result, the privacy issues surrounding mobile computing are becoming ever-more complex.
+approach
+meaning: move towards
+sentence: Spain’s jobless rate for people ages 16 to 24 is approaching 50 percent.New York Times (Feb 15, 2012)
+establish
+meaning: set up or found
+sentence: A small French colony, Port Louis, was established on East Falkland in 1764 and handed to the Spanish three years later.
+utter
+meaning: without qualification
+sentence: No one can blame an honest mechanic for holding a wealthy snob in utter contempt.Ingersoll, Robert Green
+conduct
+meaning: direct the course of; manage or control
+sentence: Scientists have been conducting studies of individual genes for years.
+engage
+meaning: consume all of one's attention or time
+sentence: We had nearly two hundred passengers, who were seated about on the sofas, reading, or playing games, or engaged in conversation.Field, Henry M. (Henry Martyn)
+obtain
+meaning: come into possession of
+sentence: He delayed making the unclassified report public while awaiting an Army review, but Rolling Stone magazine obtained the report and posted it Friday night.New York Times (Feb 11, 2012)
+scarce
+meaning: deficient in quantity or number compared with the demand
+sentence: Meanwhile, heating oil could grow more scarce in the Northeast this winter, the Energy Department warned last month.New York Times (Jan 21, 2012)
+policy
+meaning: a plan of action adopted by an individual or social group
+sentence: Inflation has lagged behind the central bank’s 2 percent target, giving policy makers extra scope to cut rates.
+straight
+meaning: successive, without a break
+sentence: After three straight losing seasons, Hoosiers fans were just hoping for a winning record.Seattle Times (Feb 15, 2012)
+stock
+meaning: capital raised by a corporation through the issue of shares
+sentence: In other words, Apple’s stock is cheap, and you should buy it.Forbes (Feb 16, 2012)
+apparent
+meaning: clearly revealed to the mind or the senses or judgment
+sentence: But the elderly creak is beginning to become apparent in McCartney’s voice.
+property
+meaning: a basic or essential attribute shared by members of a class
+sentence: Owing to these magic properties, it was often planted near dwellings to keep away evil spirits.Parsons, Mary Elizabeth
+fancy
+meaning: imagine; conceive of; see in one's mind
+sentence: For a time, indeed, he had fancied that things were changed.Weyman, Stanley J.
+concept
+meaning: an abstract or general idea inferred from specific instances
+sentence: As a psychologist, I have always found the concept of speed dating fascinating.Scientific American (Feb 13, 2012)
+court
+meaning: an assembly to conduct judicial business
+sentence: When Brown pleaded not guilty to assaulting Rihanna, their violent past came out in court.Slate (Feb 16, 2012)
+appoint
+meaning: assign a duty, responsibility, or obligation to
+sentence: In 1863 he was appointed by the general assembly professor of oriental languages at New College.Various
+passage
+meaning: a section of text, particularly a section of medium length
+sentence: His interpretation of many obscure scriptural passages by means of native manners and customs and traditions is particularly helpful and informing.Sheets, Emily Churchill Thompson
+vain
+meaning: unproductive of success
+sentence: An attempt was made to ignore this brilliant and irregular book, but in vain; it was read all over Europe.Various
+instance
+meaning: an occurrence of something
+sentence: In many instances large districts or towns would have fewer representatives than smaller ones, or perhaps none at all.Clarke, Helen Archibald
+coast
+meaning: the shore of a sea or ocean
+sentence: Martello towers must be built within short distances all round the coast.Wingfield, Lewis
+project
+meaning: meaning: a planned undertaking
+sentence: sentence: The funds are aimed at helping build public projects including mass transit, electricity networks, water utility and ports, it said.
+commission
+meaning: meaning: a special group delegated to consider some matter
+sentence: sentence: The developers are now seeking approval from the landmarks commission.New York Times (Feb 16, 2012)
+constant
+meaning: meaning: a quantity that does not vary
+sentence: sentence: In 1929, Hubble independently put forward and confirmed the same idea, and the parameter later became known as the Hubble constant.Nature (Nov 15, 2011)
+circumstances
+meaning: meaning: one's overall condition in life
+sentence: sentence: The circumstances leading up to the shootings was not immediately available.
+constitute
+meaning: meaning: compose or represent
+sentence: sentence: Oil and natural gas constituted almost 50 percent of Russian government revenue last year.
+level
+meaning: meaning: a relative position or degree of value in a graded group
+sentence: sentence: Only last month did the men’s and women’s unemployment rates reach the same level.New York Times (Feb 19, 2012)
+affect
+meaning: meaning: have an influence upon
+sentence: sentence: The central bank will start distributing low-interest loans in early March to individuals and small- and medium-sized companies affected by the flooding.
+institute
+meaning: meaning: set up or lay the groundwork for
+sentence: sentence: Corporations have to be more and more focused on instituting higher labor standards.Washington Post (Feb 7, 2012)
+render
+meaning: give an interpretation of
+sentence: But authorities had rendered the weapon and the explosive device inoperable, officials said.Chicago Tribune (Feb 17, 2012)
+appeal
+meaning: be attractive to
+sentence: To get traditional women’s accessories to appeal to men, some designers are giving them manly names and styles.New York Times (Feb 19, 2012)
+generate
+meaning: bring into existence
+sentence: Qualities such as these are not generated under bad working practices of any sort.Hungerford, Edward
+theory
+meaning: a well-substantiated explanation of some aspect of the world
+sentence: Testing that theory begins Saturday night, as the Capitals take on Tampa Bay in another important contest.Washington Post (Feb 18, 2012)
+range
+meaning: a variety of different things or activities
+sentence: Like American community colleges, admission at an open university is not competitive, but the schools offer a range of programs, including doctoral degrees.
+campaign
+meaning: a race between candidates for elective office
+sentence: At the same point in 2004 — as an incumbent facing re-election — Mr. Bush had taken in about $145.6 million for his campaign.New York Times (Feb 18, 2012)
+league
+meaning: an association of sports teams that organizes matches
+sentence: "When I broke into the big leagues until a month ago, Gary kept in touch," Mets third baseman David Wright said.Seattle Times (Feb 17, 2012)
+labor
+meaning: any piece of work that is undertaken or attempted
+sentence: More labor is entailed, more time is required, greater delay is occasioned in cleaning up, and the amount of water used is much greater.Hoskin, Arthur J.
+confer
+meaning: have a meeting in order to talk something over
+sentence: Ms. Stewart said Mrs. Bachmann conferred with her family and a few aides after her disappointing showing on Tuesday evening.New York Times (Jan 4, 2012)
+grant
+meaning: allow to have
+sentence: He had been granted entry into the White House only for the daily briefing, later that afternoon.New York Times (Feb 17, 2012)
+dwell
+meaning: think moodily or anxiously about something
+sentence: But it is hardly necessary to dwell on so normal an event.Vinogradoff, Paul
+entertain
+meaning: provide amusement for
+sentence: The first Super Bowl in 1967 featured college marching bands entertaining the crowds at halftime.
+contract
+meaning: a binding agreement that is enforceable by law
+sentence: Contracts with utilities will be signed starting next month, he said.
+earnest
+meaning: characterized by a firm, humorless belief in one's opinions
+sentence: Too much praise cannot be given to the earnest and efficient missionaries who founded and have maintained this mission.Miller, George A.
+yield
+meaning: give or supply
+sentence: It is a very important honey plant, as it yields an exceptionally pure nectar and remains in bloom a long time.Parsons, Mary Elizabeth
+wander
+meaning: move or cause to move in a sinuous or circular course
+sentence: While each animal wandered through the maze, its brain was working furiously.New York Times (Feb 16, 2012)
+insist
+meaning: be emphatic or resolute and refuse to budge
+sentence: Interior Department officials insisted that they had conducted an extensive scientific inquiry before moving ahead with the spill response plan.New York Times (Feb 17, 2012)
+knight
+meaning: a person of noble birth trained to arms and chivalry
+sentence: The knight was gallant not only in war, but in love also.Crothers, Samuel McChord
+convince
+meaning: make realize the truth or validity of something
+sentence: But though he listened he was not convinced.Reade, Charles
+inspire
+meaning: serve as the inciting cause of
+sentence: His surprising performance inspired an outpouring of fan adoration that has been dubbed "Linsanity."Chicago Tribune (Feb 19, 2012)
+convention
+meaning: a large formal assembly
+sentence: Last year, the industry’s main trade convention, the Inside Self-Storage World Expo, organized workshops in Las Vegas focusing on lien laws and auction sales.New York Times (Feb 17, 2012)
+skill
+meaning: an ability that has been acquired by training
+sentence: He says many new drivers are terrified of motorway driving because they do not have the skills or confidence needed.
+harry
+meaning: annoy continually or chronically
+sentence: There’s something uplifting about hearing a string instrument when I’m feeling ragged or harried.New York Times (Feb 9, 2012)
+financial
+meaning: involving fiscal matters
+sentence: Meanwhile, universities have raised tuition every year, putting many students in a financial bind.New York Times (Feb 20, 2012)
+reflect
+meaning: show an image of
+sentence: Teens ranting over chores and whatnot can often reflect deeper feelings of alienation or perceived uncaring on the part of parents.
+novel
+meaning: an extended fictional work in prose
+sentence: Before Robert Barr publishes a novel he spends years in thinking the thing out.Anonymous
+furnish
+meaning: provide with objects or articles that make a room usable
+sentence: Instead, according to court documents, the money went toward furnishing mansions, flying in private jets, and retaining a $120,000-a-year personal hairstylist.BusinessWeek (Feb 1, 2012)
+compel
+meaning: force somebody to do something
+sentence: But the flames grew too large, compelling firefighters to call off the rescue.New York Times (Feb 18, 2012)
+venture
+meaning: proceed somewhere despite the risk of possible dangers
+sentence: Clearly he would not venture to descend while his enemy moved.Strang, Herbert
+territory
+meaning: the geographical area under the jurisdiction of a state
+sentence: On Friday, West Africa regional group Ecowas condemned the rebels, urging them to end hostilities and surrender all occupied territory.
+temper
+meaning: a characteristic state of feeling
+sentence: Oscar Wilde, to do him justice, bore this sort of rebuff with astonishing good temper and sweetness.Anonymous
+bent
+meaning: fixed in your purpose
+sentence: The business-oriented constituency of the Republican Party, Jacobs said, has been weakened by a faction bent on lowering taxes and cutting spending.
+intimate
+meaning: marked by close acquaintance, association, or familiarity
+sentence: The female spider can choose when to cut off intimate relations by eating her partner, or kicking him out.Scientific American (Jan 31, 2012)
+undertake
+meaning: enter upon an activity or enterprise
+sentence: An autopsy has reportedly been undertaken but the results are not expected for several weeks.
+majority
+meaning: more than half of the votes in an election
+sentence: Republicans need just four seats in the Senate to take control as the majority party.
+assert
+meaning: declare or affirm solemnly and formally as true
+sentence: In your talk you asserted the pill's risks of blood clotting, lung artery blockage, heart attack and stroke are minimal.
+crew
+meaning: the people who work on a vehicle
+sentence: Several pilots and crew members would have to escape at once, while safety divers watched, ready to rescue anyone who became stuck.New York Times (Feb 6, 2012)
+chamber
+meaning: a natural or artificial enclosed space
+sentence: "Today," said the old man, "you must push through with me into my most solitary chamber, that we may not be disturbed."Carlyle, Thomas
+humble
+meaning: marked by meekness or modesty; not arrogant or prideful
+sentence: “Challenging yourself, playing up against stronger, tougher, and overall better competition will keep you humble.”Washington Post (Jan 17, 2012)
+scheme
+meaning: an elaborate and systematic plan of action
+sentence: Some companies in the Globe District of Arizona have started extensive underground schemes for mining large tonnages very cheaply by "caving" methods.Hoskin, Arthur J.
+keen
+meaning: demonstrating ability to recognize or draw fine distinctions
+sentence: Not one of his movements escaped her keen observation; she drank in every shiver.Wingfield, Lewis
+liberal
+meaning: having political views favoring reform and progress
+sentence: Romney’s actually done well in open primaries where fiscally conservative yet socially liberal independents have backed him over his opponents.
+despair
+meaning: a state in which all hope is lost or absent
+sentence: There were wounded love, and wounded pride, and despair, and coming madness, all in that piteous cry.Reade, Charles
+tide
+meaning: the periodic rise and fall of the sea level
+sentence: In the case of mobile connectivity, a rising tide does not lift all boats.Slate (Feb 9, 2012)
+attitude
+meaning: a complex mental state involving beliefs and feelings
+sentence: "Behaviours have changed and attitudes have changed," Mr Taylor said.
+justify
+meaning: show to be reasonable or provide adequate ground for
+sentence: He felt sure that if the circumstances justified it, the necessary proceedings could be taken.”Anonymous
+flag
+meaning: a rectangular piece of cloth of distinctive design
+sentence: Palestinian President Mahmoud Abbas declared three days of mourning and ordered flags flown at half staff.New York Times (Feb 16, 2012)
+merit
+meaning: any admirable or beneficial attribute
+sentence: Thus far in our inquiry extraordinary merits have been offset by extraordinary defects.Ayres, Harry Morgan
+manifest
+meaning: reveal its presence or make an appearance
+sentence: A too rapid transformation of existing conditions might very easily lead to an economic crisis, symptoms of which are already beginning to manifest themselves.Vay, P?ter
+notion
+meaning: a general inclusive concept
+sentence: Does that old notion that defense wins championships still hold up these days?Seattle Times (Jan 13, 2012)
+scale
+meaning: relative magnitude
+sentence: And there might not be much money, so fashion shows are done on a much smaller scale.Seattle Times (Feb 17, 2012)
+formal
+meaning: characteristic of or befitting a person in authority
+sentence: A formal decision to call off the search is likely on Wednesday, rescue officials said.New York Times (Jan 31, 2012)
+resource
+meaning: a new or reserve supply that can be drawn upon when needed
+sentence: “Economists assume that, under normal conditions, markets will allocate resources efficiently,” he added.
+persist
+meaning: continue to exist
+sentence: Old ideas, long after the conditions under which they were produced have passed away, often persist in surviving.Ingersoll, Robert Green
+contempt
+meaning: lack of respect accompanied by a feeling of intense dislike
+sentence: And with his backhanded contempt for all things ordinary, Blake is making some of the catchiest, most difficult music in recent memory.
+tour
+meaning: a route all the way around a particular place or area
+sentence: He typed in “South Park” and took senior executives on a tour of Web sites offering pirated episodes.New York Times (Feb 8, 2012)
+plead
+meaning: enter a defendant's answer
+sentence: Aria pleaded not guilty, but he acknowledged that he had violated some laws.New York Times (Feb 18, 2012)
+weigh
+meaning: be oppressive or burdensome
+sentence: So far, the political turmoil has not appeared to have discouraged visitors, but prolonged strife could weigh on tourism.New York Times (Feb 11, 2012)
+mode
+meaning: meaning: how something is done or how it happens
+sentence: sentence: Speaking of science, he says, in language far in advance of his times: ‘There are two modes of knowing—by argument and by experiment.Adams, W. H. Davenport (William Henry Davenport)
+distinction
+meaning: a discrimination between things as different
+sentence: But such a distinction is quite external; at heart the men may be very much alike.Anonymous
+inclined
+meaning: at an angle to the horizontal or vertical position
+sentence: Such an inclined passage following a seam of coal is known as a slope.Hoskin, Arthur J.
+attribute
+meaning: a quality belonging to or characteristic of an entity
+sentence: The authors found that when the available prospects varied more in attributes such as age, height, occupation and educational background, people made fewer dating proposals.Scientific American (Feb 13, 2012)
+exert
+meaning: make a great effort at a mental or physical task
+sentence: School boards may come to exert even greater influence over what students read.Forbes (Jan 23, 2012)
+oppress
+meaning: come down on or keep down by unjust use of one's authority
+sentence: Those who managed to survive were later oppressed by Poland's post-war communist authorities.
+contend
+meaning: compete for something
+sentence: But eight men, however bold and stout-hearted, could not long contend with an enemy at least four times their number.Strang, Herbert
+stake
+meaning: a strong wooden or metal post driven into the ground
+sentence: His remains were buried in Cannon Street, and a stake was driven through the body.Andrews, William
+toil
+meaning: work hard
+sentence: He toiled in the sweat of his brow, tilling the stubborn ground, taking out stones, building fences.Adler, Felix
+perish
+meaning: pass from physical life
+sentence: Simon Wiesenthal's parents are long since deceased, with his father dying in World War I and his mother perishing in the Holocaust.
+disposition
+meaning: your usual mood
+sentence: Melancholia — the state of mind — can hide behind seemingly sunny dispositions.Seattle Times (Dec 28, 2011)
+rail
+meaning: complain bitterly
+sentence: Mr. Gray railed against lengthy stage directions, saying he crossed them out in scripts before he would begin rehearsals with his actors.New York Times (Feb 7, 2012)
+cardinal
+meaning: one of a group of prominent bishops in the Sacred College
+sentence: Each time he names cardinals he puts his stamp on Roman Catholicism's future by choosing men who share his views.Chicago Tribune (Feb 18, 2012)
+boast
+meaning: talk about oneself with excessive pride or self-regard
+sentence: Mr. Estes was also well connected politically, boasting that the president of the United States took his calls.New York Times (Dec 10, 2011)
+advocate
+meaning: a person who pleads for a person, cause, or idea
+sentence: Well, safety advocates, consumers and the government dragged the automobile industry toward including seat belts, air bags, more visible taillights and other safety features.New York Times (Feb 19, 2012)
+bestow
+meaning: present
+sentence: He bestowed public buildings and river improvements in return for votes.Gilbert, Clinton W. (Clinton Wallace)
+allege
+meaning: report or maintain
+sentence: It is being fired into enclosed areas and homes, the human rights group alleges.
+notwithstanding
+meaning: despite anything to the contrary
+sentence: He seems to have taken things easily enough, notwithstanding the sorrow and suffering that surrounded him on every side.Adams, W. H. Davenport (William Henry Davenport)
+lofty
+meaning: of imposing height; especially standing out above others
+sentence: He found himself in an enormous hall with a lofty ceiling.Blasco Ib??ez, Vicente
+multitude
+meaning: a large indefinite number
+sentence: Department store chains in general have been strained in recent years as a " multitude" of alternatives has emerged, all competing for customers.Chicago Tribune (Dec 28, 2011)
+steep
+meaning: having a sharp inclination
+sentence: It was narrow and very steep, and had precipices in all parts, so that they could not mount upward except one at a time.Various
+heed
+meaning: pay close attention to
+sentence: But Cain was already too far gone to heed the warning voice.Adler, Felix
+modest
+meaning: meaning: not large but sufficient in size or amount
+sentence: sentence: A healthy person living in an unfashionable city with no student loans to pay off can get by on a fairly modest income.Slate (Feb 17, 2012)
+partial
+meaning: meaning: being or affecting only a segment
+sentence: sentence: Generalizations of this sweeping order are apt to contain only partial truth.Clarke, Helen Archibald
+apt
+meaning: meaning: naturally disposed toward
+sentence: sentence: Another reason to display beds at an electronics show: consumers are apt to use high-tech devices while tucked in.New York Times (Jan 9, 2012)
+esteem
+meaning: meaning: the condition of being honored
+sentence: sentence: Despite being held in the highest esteem by his fellow poets, Redgrove never quite achieved the critical reception or readership he deserved.
+credible
+meaning: meaning: appearing to merit belief or acceptance
+sentence: sentence: Mike Mullen, then chairman of the Joint Chiefs of Staff, has acknowledged receiving the memo but said he ignored it as not credible.New York Times (Dec 19, 2011)
+provoke
+meaning: meaning: provide the needed stimulus for
+sentence: sentence: It provoked a bigger reaction than we could ever have anticipated.
+tread
+meaning: meaning: a step in walking or running
+sentence: sentence: The farmer went down, his clumsy boots making no sound on the uncarpeted stairway, so careful was his tread.Woolson, Constance Fenimore
+ascertain
+meaning: meaning: learn or discover with confidence
+sentence: sentence: Health care providers and manufacturers can ascertain alternative treatment more effectively by tackling predicted drug shortage incidences early in the process.Forbes (Feb 13, 2012)
+fare
+meaning: meaning: proceed, get along, or succeed
+sentence: sentence: A recent study breaks down how graduates with various college degrees are faring in today’s difficult job market.Washington Post (Feb 17, 2012)
+cede
+meaning: meaning: relinquish possession or control over
+sentence: sentence: Some militia chiefs say they will only cede command of their fighters once an organized military and security apparatus is in place.
+perpetual
+meaning: meaning: continuing forever or indefinitely
+sentence: sentence: The river is a perpetual enjoyment, always something going on.Waddington, Mary King
+decree
+meaning: a legally binding command or decision
+sentence: While the decree takes effect immediately, it requires Parliament’s approval within 60 days to remain in force.
+contrive
+meaning: make or work out a plan for; devise
+sentence: The wily Roc, never taken much by surprise, contrived to escape, but old Tributor and his men were all captured.Thornbury, Walter
+derived
+meaning: formed or developed from something else; not original
+sentence: Modern kale, cabbage, broccoli, cauliflower, Brussels sprouts, and kohlrabi are all members of the same species, derived from a single prehistoric plant variety.Slate (Feb 21, 2012)
+elaborate
+meaning: marked by complexity and richness of detail
+sentence: But the tobacco industry and owners of other convenience stores say tribal cigarette manufacturing is just an elaborate form of tax evasion.New York Times (Feb 22, 2012)
+substantial
+meaning: real; having a material or factual existence
+sentence: Defence lawyers said the large number of forensic tests which had been carried out had failed to find any substantial evidence linked to the accused.
+frontier
+meaning: a wilderness at the edge of a settled area of a country
+sentence: Adding to the precarious security situation, tribesmen kidnapped 18 Egyptian border guards along the frontier with Israel in Sinai Peninsula.New York Times (Feb 9, 2012)
+facile
+meaning: arrived at without due care or effort; lacking depth
+sentence: As one teacher remarks about a troubled student, “There is no facile solution.”New York Times (Oct 11, 2011)
+cite
+meaning: make reference to
+sentence: The Federal Reserve has pledged low interest rates until late 2014, citing in part the weakness of the job market.
+warrant
+meaning: show to be reasonable or provide adequate ground for
+sentence: In the United Kingdom and Europe the devices are not used unless the need is warranted by the patient's medical condition.
+sob
+meaning: weep convulsively
+sentence: He cried and trembled, sobbing, while they spoke, like the child he was.Weyman, Stanley J.
+rider
+meaning: a traveler who actively sits and travels on an animal
+sentence: In horseback riding, a rider will give commands by squeezing or lengthening the reins and altering the position of his legs.
+dense
+meaning: permitting little if any light to pass through
+sentence: Dense black smoke rose in the distance as demonstrators burned tires in Shiite villages.
+afflict
+meaning: cause physical pain or suffering in
+sentence: Melanoma globally afflicts nearly 160,000 new people each year.
+flourish
+meaning: grow vigorously
+sentence: His business had been all along steadily flourishing, his patrons had been of high social position, some most illustrious, others actually royal.Petherick, Horace William
+ordain
+meaning: invest with ministerial or priestly authority
+sentence: One of the present bishops was consecrated when quite a young boy, and deacons are often ordained at sixteen, and even much earlier.Bird, Isabella L. (Isabella Lucy)
+pious
+meaning: having or showing or expressing reverence for a deity
+sentence: Mother, you see, is a very pious woman, and she attributes it all to Providence, saying that it was the Divine interference in her behalf.Various
+vex
+meaning: disturb, especially by minor irritations
+sentence: There are vexing problems slowing the growth and the practical implementation of big data technologies.Forbes (Oct 21, 2011)
+gravity
+meaning: the force of attraction between all masses in the universe
+sentence: Once captured, the combined object will have a new center of gravity and may be spinning in an uncontrolled way.
+suspended
+meaning: supported or kept from sinking or falling by buoyancy
+sentence: Frustrating enough at ground level, but can you imagine the agony about a stranded, ever-soggier Oreo being suspended 11 feet above the ground?Washington Post (Feb 21, 2012)
+conspicuous
+meaning: obvious to the eye or mind
+sentence: Its bright scarlet fruits are conspicuous in late autumn.Anonymous
+retort
+meaning: a quick reply to a question or remark
+sentence: Having put him in ill humour with this retort, she fled away rejoicing.Coster, Charles Th?odore Henri de
+jet
+meaning: an airplane powered by gas turbines
+sentence: Typhoon fighter jets, helicopters, two warships and bomb disposal experts will also be on duty to guard against security threats.Seattle Times (Feb 20, 2012)
+bolt
+meaning: run away
+sentence: The blare of bugles was heard, and a few seconds afterwards Jackson, still facing the enemy, shouted: "By Jupiter, they're bolting, sir."Strang, Herbert
+assent
+meaning: agree or express agreement
+sentence: His two companions readily assented, and the promise was mutually given and received.Keightley, Thomas
+purse
+meaning: a sum spoken of as the contents of a money container
+sentence: She watched over her husband, kept his accounts, held the family purse, managed all his affairs. Shorter, Clement K.
+plus
+meaning: the arithmetic operation of summing
+sentence: The survey’s margin of error was plus or minus four percentage points.
+sanction
+meaning: give authority or permission to
+sentence: The Securities and Exchange Commission said last year it had sanctioned 39 senior officers for conduct related to the housing market meltdown.
+proceeding
+meaning: a sequence of steps by which legal judgments are invoked
+sentence: Chu attended the special court-martial proceeding on Monday in Hawaii, Hill said.
+exalt
+meaning: praise, glorify, or honor
+sentence: Some exalt themselves by anonymously posting their own laudatory reviews.New York Times (Jan 26, 2012)
+siege
+meaning: an action of an armed force that surrounds a fortified place
+sentence: Rebellion broke out, and finally the aged Caliph, after enduring a siege of several weeks, was murdered in his own house.Nicholson, Reynold
+malice
+meaning: the desire to see others suffer
+sentence: He viewed the moths with malice, their fluttering wings fanning his resentment.Lyman, Olin L.
+extravagant
+meaning: recklessly wasteful
+sentence: Advisers say new millionaires are prone to mistakes, like making extravagant purchases or risky deals with friends.
+wax
+meaning: increase in phase
+sentence: Carols had existed for centuries, though their popularity waxed and waned as different governments and religious movements periodically declared them sinful.
+throng
+meaning: press tightly together or cram
+sentence: Deafening cheers rent the air as he landed; hundreds thronged around him to clasp his hand.Strang, Herbert
+venerate
+meaning: regard with feelings of respect and reverence
+sentence: He venerated me like a being descended from an upper world.Blasco Ib??ez, Vicente
+assail
+meaning: attack someone physically or emotionally
+sentence: His campaign even issued a press release assailing other rivals for, in Mr. Paul’s view, taking Mr. Romney’s quote about firing people out of context.New York Times (Feb 16, 2012)
+sublime
+meaning: of high moral or intellectual value
+sentence: He was uneven, disproportioned, saying ordinary things on great occasions, and now and then, without the slightest provocation, uttering the sublimest and most beautiful thoughts.Ingersoll, Robert Green
+exploit
+meaning: draw from; make good use of
+sentence: As humans increasingly exploit the deep seas for fish, oil and mining, understanding how species are dispersed is crucial, Copley said.Scientific American (Jan 3, 2012)
+exertion
+meaning: use of physical or mental energy; hard work
+sentence: One day overcome by exertion, she fainted in the street.Ingersoll, Robert Green
+kindle
+meaning: catch fire
+sentence: Then a match was kindled and fire applied.Warner, Susan
+endow
+meaning: furnish with a capital fund
+sentence: The grammar school here, founded in 1533, is liberally endowed, with scholarships and exhibitions.Various
+imposed
+meaning: set forth authoritatively as obligatory
+sentence: The Arab League has already suspended Syria and imposed economic sanctions.
+humiliate
+meaning: cause to feel shame
+sentence: The letter claims pensioners are too often patronised, humiliated, denied privacy or even medical treatment.
+suffrage
+meaning: a legal right to vote
+sentence: There has been a great deal said in this country of late in regard to giving the right of suffrage to women.Ingersoll, Robert Green
+ensue
+meaning: take place or happen afterward or as a result
+sentence: An uproar ensued months after the approval, when opponents realized the online gambling measure had been slipped in.New York Times (Feb 16, 2012)
+brook
+meaning: a natural stream of water smaller than a river
+sentence: He walked across the little bridge over the brook and at once his mood changed.Mason, A. E. W. (Alfred Edward Woodley)
+gale
+meaning: a strong wind moving 34–40 knots
+sentence: The gale was accompanied, as usual, by incessant rain and thick weather, and a heavy confused sea kept our decks always flooded.Fitzroy, Robert
+muse
+meaning: reflect deeply on a subject
+sentence: Musing about the Big Picture may be a lot more gratifying than focusing on the details of the specific policies that aren’t working.
+satire
+meaning: witty language used to convey insults or scorn
+sentence: There’s plenty of humor on Russian television, though not much political satire; Mr. Putin put a stop to that long ago.New York Times (Feb 13, 2012)
+intrigue
+meaning: cause to be interested or curious
+sentence: Designing and building models that intrigue and educate without overwhelming has been challenging.Science Magazine (Nov 24, 2011)
+indication
+meaning: something that serves to suggest
+sentence: Authorities said an autopsy found no indications of foul play or obvious signs of trauma on Houston.Seattle Times (Feb 15, 2012)
+dispatch
+meaning: send away towards a designated goal
+sentence: More than one assassin was dispatched by the Turkish authorities to murder Napoleon.Various
+cower
+meaning: crouch or curl up
+sentence: The knaves lowered their weapons and shrank back cowering before him.Weyman, Stanley J.
+wont
+meaning: an established custom
+sentence: He made his customary slick feeds to open teammates, but as is their wont, the Nets struggled at times to convert points on his passes.New York Times (Feb 20, 2012)
+tract
+meaning: a system of body parts that serves some specialized purpose
+sentence: When probiotics flourish in the digestive tract, nutrients are better absorbed and bad bugs are held at bay, research suggests.Seattle Times (Jan 10, 2012)
+canon
+meaning: a collection of books accepted as holy scripture
+sentence: For me, all novels of any consequence are literary, and they take their place, high and low, in the canon of English literature.
+impel
+meaning: cause to move forward with force
+sentence: Some power beyond his comprehension was impelling him toward the neighboring city.Blasco Ib??ez, Vicente
+latitude
+meaning: freedom from normal restraints in conduct
+sentence: Great employees often get more latitude to bring up controversial subjects in a group setting because their performance allows greater freedom.
+vacate
+meaning: leave behind empty; move out of
+sentence: Their number diminished sharply after Villaraigosa announced last week that he wanted protesters to vacate the grounds by Monday or be forcibly removed.Chicago Tribune (Nov 30, 2011)
+undertaking
+meaning: any piece of work that is attempted
+sentence: "Let my epitaph be, Here lies Joseph, who was unsuccessful in all his undertakings."Marvin, Frederic Rowland
+slay
+meaning: kill intentionally and with premeditation
+sentence: "It were shame," said Lancelot, "for an armed to slay an unarmed man."Unknown
+predecessor
+meaning: one who goes before you in time
+sentence: Heller fills in the blanks about Taft, overshadowed by colorful predecessor Teddy Roosevelt.Seattle Times (Feb 22, 2012)
+delicacy
+meaning: the quality of being exquisitely fine in appearance
+sentence: This refinement appears in his works, which are full of artistic grace and dainty delicacy.Drake, Samuel Adams
+forsake
+meaning: leave someone who needs or counts on you; leave in the lurch
+sentence: "I'm surprised," said Philip, cautiously opening fire, "that you were ever allowed to forsake your native land."Hay, Ian
+beseech
+meaning: ask for or request earnestly
+sentence: Utterly distraught, he ran up and down the bank, hunting for his clothes, calling, crying out, imploring, beseeching help from somewhere.Frank, Ulrich
+philosophical
+meaning: relating to the investigation of existence and knowledge
+sentence: His arguments, like Einstein’s, were qualitative, verging on highly philosophical.Scientific American (Jan 30, 2012)
+grove
+meaning: a small growth of trees without underbrush
+sentence: Soon after we came to Pasadena, father bought an orange grove of twenty-five acres.Chamberlain, James Franklin
+frustrate
+meaning: hinder or prevent, as an effort, plan, or desire
+sentence: Frustrated after two years of missed budget targets, finance chiefs demanded Greek officials put their verbal commitments into law.
+illustrious
+meaning: widely known and esteemed
+sentence: She will be joining an illustrious list of recipients that include Winston Churchill, Nelson Mandela, Pope John Paul II and Princess Diana.
+device
+meaning: an instrumentality invented for a particular purpose
+sentence: You’ve probably also noticed that the telephone and computer are no longer the only devices on your employees’ desks.Forbes (Feb 26, 2012)
+pomp
+meaning: cheap or pretentious or vain display
+sentence: Throughout U.S. history, Americans have been fascinated by royal pomp -- even on a movie screen.
+entreat
+meaning: ask for or request earnestly
+sentence: "Let me go now, please," she entreated, her eyes unable to meet his any longer.Hope, Anthony
+impart
+meaning: transmit, as knowledge or a skill
+sentence: Long before writing and books were in common use, proverbs were the principal means of imparting instruction.Preston, Thomas
+propriety
+meaning: correct behavior
+sentence: I felt a trifle doubtful about the propriety of taking a short cut across private grounds, and said as much.Sutphen, Van Tassel
+consecrate
+meaning: render holy by means of religious rites
+sentence: The building was consecrated as a Protestant Episcopal church in May, 1814.Faris, John T. (John Thomson)
+proceeds
+meaning: the income or profit arising from a transaction
+sentence: His own share in the proceeds was about a hundred thousand dollars.Stark, James H.
+fathom
+meaning: come to understand
+sentence: But after flying for so many years, the idea of hanging up his sparkling wings is hard for him to fathom.New York Times (Mar 17, 2012)
+objective
+meaning: the goal intended to be attained
+sentence: The objective was to mobilize students from 18 high schools across the city to provide community services and inspire others.New York Times (Feb 5, 2012)
+clad
+meaning: wearing or provided with clothing
+sentence: A few of the villagers came behind, clad in mourning robes, and bearing lighted tapers.Various
+partisan
+meaning: devoted to a cause or political group
+sentence: But given the bitter partisan divide in an election year, Democrats said they would never be able to get such legislation passed.Chicago Tribune (Mar 30, 2012)
+faction
+meaning: a dissenting clique
+sentence: One faction declared it would begin an armed struggle against the government of the United States.Slate (Feb 29, 2012)
+contrived
+meaning: artificially formal
+sentence: In lesser hands the story about a young man who discovers life among the dead could be impossibly cute and contrived.New York Times (Mar 25, 2012)
+venerable
+meaning: impressive by reason of age
+sentence: Thus, after much more than two hundred years, the venerable building looks almost as it did when the first students entered its doors.Faris, John T. (John Thomson)
+restrained
+meaning: not showy or obtrusive
+sentence: By contrast, Mr. Pei’s restrained design took time to claim my attention, particularly since it sat quietly next door to Saarinen’s concrete gull wings.New York Times (Oct 6, 2011)
+besiege
+meaning: harass, as with questions or requests
+sentence: He can’t trot down the street without being besieged by paparazzi.New York Times (Mar 18, 2012)
+manifestation
+meaning: a clear appearance
+sentence: Singing and dancing are manifestations of what many Syrians describe as a much broader cultural flowering.New York Times (Dec 19, 2011)
+rebuke
+meaning: an act or expression of criticism and censure
+sentence: Afterward, the leaders fought court orders to release records showing what they had done, drawing an uncommonly sharp rebuke from a federal judge.Washington Post (Mar 14, 2012)
+insurgent
+meaning: in opposition to a civil authority or government
+sentence: The Free Syrian Army, an insurgent group made of defecting soldiers and based in southern Turkey, claimed responsibility for both attacks.New York Times (Nov 20, 2011)
+rhetoric
+meaning: using language effectively to please or persuade
+sentence: His fiery rhetoric in support of limiting cuts to projected defense spending has surprised and impressed some of Obama's toughest Republican critics.
+scrupulous
+meaning: having ethical or moral principles
+sentence: The reason is that the vast majority of businesses are scrupulous and treat their employees well.
+ratify
+meaning: approve and express assent, responsibility, or obligation
+sentence: Company officials at Safeway said those replacement workers will remain on standby until the agreement is ratified by union members.Washington Post (Mar 29, 2012)
+stump
+meaning: cause to be perplexed or confounded
+sentence: Though family members long suspected Evans, a local handyman who frequently hired local youths, the case stumped investigators for years.Washington Post (Aug 30, 2011)
+discreet
+meaning: marked by prudence or modesty and wise self-restraint
+sentence: Sarkozy has attempted to tone down his image, becoming more discreet about his private life.
+imposing
+meaning: impressive in appearance
+sentence: These buildings were grand and stylized with intricate details and a bit of an imposing presence.Scientific American (Mar 5, 2012)
+wistful
+meaning: showing pensive sadness
+sentence: She turned toward him, her face troubled, her eyes most wistful.Mason, A. E. W. (Alfred Edward Woodley)
+mortify
+meaning: cause to feel shame
+sentence: Intensely mortified at this humiliation, the king fell sick, and henceforth his health failed rapidly.Various
+ripple
+meaning: stir up so as to form small waves
+sentence: That could precipitate higher interest rates that would ripple across the economy.Washington Post (Jul 27, 2011)
+premise
+meaning: a statement that is held to be true
+sentence: Success, real success, comes to the jack of all trades, a major premise handed down from pioneer days.Gilbert, Clinton W. (Clinton Wallace)
+subside
+meaning: wear off or die down
+sentence: Affliction is allayed, grief subsides, sorrow is soothed, distress is mitigated.Webster, Noah
+adverse
+meaning: contrary to your interests or welfare
+sentence: High doses can have adverse effects and even cause death.Seattle Times (Mar 26, 2012)
+caprice
+meaning: a sudden desire
+sentence: Nobody is really in charge, and decisions are made on whim and caprice.”New York Times (Apr 10, 2011)
+muster
+meaning: gather or bring together
+sentence: Yet Fox needed all the strength that he could muster.Rosebery, Archibald Phillip Primrose
+comprehensive
+meaning: broad in scope
+sentence: The United States Army developed a comprehensive plan to address problematic race relations in the 1970s, recognizing that they were hampering military effectiveness.New York Times (Feb 6, 2012)
+accede
+meaning: yield to another's wish or opinion
+sentence: Therefore he made up his mind to accede to his uncle's desire.Streckfuss, Adolph
+fervent
+meaning: characterized by intense emotion
+sentence: But, to fervent applause and scattered fist pumps from two sets of worshipers, he pledged to legally challenge the claims against him.New York Times (Sep 26, 2010)
+cohere
+meaning: cause to form a united, orderly, and consistent whole
+sentence: Two antagonistic values may cohere in the same object.Anderson, Benjamin M. (Benjamin McAlester)
+tribunal
+meaning: an assembly to conduct judicial business
+sentence: The military has historically been protected from civilian courts, with any crimes committed by soldiers being decided in closed military tribunals.
+austere
+meaning: severely simple
+sentence: A certain austere simplicity was noticeable all over Longfellow's house.Anonymous
+recovering
+meaning: returning to health after illness or debility
+sentence: “The recovering economy is bringing more people back into the market.Washington Post (Mar 22, 2012)
+stratum
+meaning: people having the same social or economic status
+sentence: She belonged to the upper stratum of the profession, and, knowing it, could not sink.George, Walter Lionel
+conscientious
+meaning: characterized by extreme care and great effort
+sentence: A conscientious hostess would be very much mortified if she served chicken out of its proper course.Reed, Myrtle
+arbitrary
+meaning: based on or subject to individual discretion or preference
+sentence: Sandra Nurse, a member of Occupy's direct action working group, said police treated demonstrators roughly and made arbitrary arrests.Time (Mar 18, 2012)
+exasperate
+meaning: irritate
+sentence: Shopkeepers, exasperated at the impact of higher taxes and reduced consumer spending, are planning to close down for the day.New York Times (Feb 7, 2012)
+conjure
+meaning: summon into action or bring into existence
+sentence: Vacation homes typically conjure up dreams of blue skies, pristine sand and crystalline waters.Wall Street Journal (Feb 28, 2012)
+ominous
+meaning: threatening or foreshadowing evil or tragic developments
+sentence: The Count's words were so ominous, so full of sinister meaning that for the moment he felt like crying out with fear.Hocking, Joseph
+edifice
+meaning: a structure that has a roof and walls
+sentence: They are here erecting a fine stone edifice for an Episcopal Church.Clark, John A.
+elude
+meaning: escape, either physically or mentally
+sentence: But despite racking up world titles, Olympic gold was eluding him.
+pervade
+meaning: spread or diffuse through
+sentence: An air of intense anticipation pervaded the General’s dining room.Burnett, Carolyn Judson
+foster
+meaning: promote the growth of
+sentence: Mr. Horne accused the district’s Mexican-American studies program of using an antiwhite curriculum to foster social activism.New York Times (Mar 19, 2012)
+admonish
+meaning: scold or reprimand; take to task
+sentence: "Children, children, stop quarrelling, right here in public!" admonished Mrs. Dering, in a low, shocked tone.Perry, Nora
+repeal
+meaning: cancel officially
+sentence: If Republicans repeal the law, Ms. Schakowsky said, they would be “taking away benefits that seniors are already getting.”New York Times (Mar 19, 2012)
+retiring
+meaning: not arrogant or presuming
+sentence: Foster was an extremely modest, unworldly, retiring gentleman.Rosenbach, A. S. W.
+incidental
+meaning: not of prime or central importance
+sentence: The models themselves are incidental on “Scouted,” merely empty planets around which revolve some fascinating characters and plenty more dull ones.New York Times (Nov 27, 2011)
+acquiesce
+meaning: agree or express agreement
+sentence: American officials initially tried to resist President Karzai’s moves but eventually acquiesced.New York Times (Mar 9, 2012)
+slew
+meaning: a large number or amount or extent
+sentence: In fact, intense focus may be one reason why so-called savants become so extraordinary at performing extensive calculations or remembering a slew of facts.Scientific American (Mar 3, 2012)
+usurp
+meaning: seize and take control without authority
+sentence: More than anything, though, officials expressed concern about reigniting longstanding Mexican concerns about the United States’ usurping Mexico’s authority.New York Times (Mar 15, 2011)
+sentinel
+meaning: a person employed to keep watch for some anticipated event
+sentence: The prisoners undressed themselves as usual, and went to bed, observed by the sentinel.Drake, Samuel Adams
+precision
+meaning: the quality of being exact
+sentence: At this time, home ranges of small rodents can not be measured with great precision, therefore any such calculations are, at best, only approximations.Douglas, Charles L.
+depose
+meaning: force to leave an office
+sentence: Late Wednesday, Mr. Touré, the deposed president, spoke out from hiding for the first time.New York Times (Mar 30, 2012)
+wanton
+meaning: unprovoked or without motive or justification
+sentence: I am not a sentimentalist by any means, yet I abominate wanton cruelty.Stables, Gordon
+odium
+meaning: state of disgrace resulting from detestable behavior
+sentence: This was one of the men who bring odium on the whole class of prisoners, and prejudice society against them.Henderson, Frank
+precept
+meaning: a rule of personal conduct
+sentence: The law of nature has but one precept, "Be strong."Williams, C. M.
+deference
+meaning: a courteous expression of esteem or regard
+sentence: Other rules, as indicated in Mr. Collins' book, concerned deportment, and demanded constant deference to superiors.Faris, John T. (John Thomson)
+fray
+meaning: a noisy fight
+sentence: Armed rebels have joined the fray in recent months.
+candid
+meaning: openly straightforward and direct without secretiveness
+sentence: The actor was candid about his own difficult childhood growing up with alcoholic parents.Seattle Times (Feb 17, 2012)
+enduring
+meaning: unceasing
+sentence: What makes the galumphing hubby such an enduring stock character?Slate (Mar 26, 2012)
+impertinent
+meaning: improperly forward or bold
+sentence: Imagine calling a famous writer by his first name—it seemed impertinent, to say the least.Watkins, Shirley
+bland
+meaning: lacking stimulating characteristics; uninteresting
+sentence: Many critics were less than enamored with the kind of “easy listening” Mr. Williams embodied, deriding his approach as bland and unchallenging.New York Times (Oct 9, 2011)
+insinuate
+meaning: suggest in an indirect or covert way; give to understand
+sentence: "Good heavens, do you mean to insinuate that I did anything crooked?" said Bojo loudly, yet at the bottom ill at ease.Johnson, Owen
+nominal
+meaning: insignificantly small; a matter of form only
+sentence: He sought nominal damages of one dollar from each defendant.
+suppliant
+meaning: humbly entreating
+sentence: The colonists asked for nothing but what was clearly right and asked in the most respectful and even suppliant manner.Judson, L. Carroll
+languid
+meaning: lacking spirit or liveliness
+sentence: Many viewers, bored by the languid pace of the show, tuned out early.New York Times (Dec 30, 2011)
+rave
+meaning: praise enthusiastically
+sentence: I have heard lots of women simply rave about him.Kauffman, Reginald Wright
+monetary
+meaning: relating to or involving money
+sentence: A hundred years ago, monetary policy – control over interest rates and the availability of credit – was viewed as a highly contentious political issue.New York Times (Mar 29, 2012)
+headlong
+meaning: in a hasty and foolhardy manner
+sentence: “They may not be wishing to rush headlong back into the same sort of risks just yet.”
+infallible
+meaning: incapable of failure or error
+sentence: But conductors are no more infallible than other people, and once in a blue moon in going through a train they miss a passenger.Lynde, Francis
+coax
+meaning: influence or urge by gentle urging, caressing, or flattering
+sentence: He used his most enticing manner and did his best to coax the little animal out again.Kay, Ross
+explicate
+meaning: elaborate, as of theories and hypotheses
+sentence: He urged judges to resist the rigid guidelines and to write opinions explicating their reasons for doing so.New York Times (Jan 22, 2010)
+gaunt
+meaning: very thin especially from disease or hunger or cold
+sentence: Gaunt, starved, and ragged, the men marched northwards, leaving the Touat country upon their left hand.Mason, A. E. W. (Alfred Edward Woodley)
+morbid
+meaning: suggesting the horror of death and decay
+sentence: Earlier in the day, however, his demise was watched by spectators with a morbid fascination.New York Times (Aug 16, 2010)
+ranging
+meaning: wandering freely
+sentence: His detective work is fascinating and wide ranging.Seattle Times (Feb 1, 2012)
+pacify
+meaning: ease the anger, agitation, or strong emotion of
+sentence: How they pacified him I don’t know, but at the end of two hours he had cooled off enough to let us go aboard.Quincy, Samuel M.
+pastoral
+meaning: idyllically rustic
+sentence: He made a considerable reputation as an accomplished painter of quiet pastoral subjects and carefully elaborated landscapes with cattle.Various
+dogged
+meaning: stubbornly unyielding
+sentence: Some analysts expect Mr. Falcone, who is known for his dogged determination, to just continue to limp along while slashing costs.New York Times (Feb 15, 2012)
+ebb
+meaning: fall away or decline
+sentence: Although Gardner’s competitive appetite ebbed after 2004, other cravings did not.New York Times (Jan 28, 2012)
+aide
+meaning: someone who acts as an assistant
+sentence: She later found work as a teacher’s aide in a Head Start program in Harlem.New York Times (Jan 12, 2012)
+appease
+meaning: cause to be more favorably inclined; gain the good will of
+sentence: The king also has tried to appease public anger over corruption.New York Times (Feb 9, 2012)
+stipulate
+meaning: make an express demand or provision in an agreement
+sentence: The mayor has an executive order in place stipulating that all top officials, except those granted a waiver, live in the city.New York Times (Sep 22, 2011)
+recourse
+meaning: something or someone turned to for assistance or security
+sentence: Bargain hunters and holiday shoppers are bad guys’ favorite targets and have little or no recourse when shoddy or fake merchandise arrives.Forbes (Nov 22, 2011)
+constrained
+meaning: lacking spontaneity; not natural
+sentence: All his goodness, however, will be of a forced, constrained, artificial, and at bottom unreal character.Hyde, William De Witt
+bate
+meaning: moderate or restrain; lessen the force of
+sentence: “You called her ‘an interfering, disagreeable old woman’!” whispered Bertha with bated breath, glancing half fearfully at the door as she spoke.Vaizey, George de Horne, Mrs.
+aversion
+meaning: a feeling of intense dislike
+sentence: Already my passive dislike had grown into an active aversion.Oppenheim, E. Phillips (Edward Phillips)
+conceit
+meaning: an artistic device or effect
+sentence: An urban panorama is viewed from a high vantage point, a conceit used in topographic art to render vast perspectives.New York Times (Sep 30, 2011)
+loath
+meaning: strongly opposed
+sentence: Friends and political allies are loath to talk about her, knowing the family’s intense obsession with privacy.New York Times (Aug 14, 2011)
+rampart
+meaning: an embankment built around a space for defensive purposes
+sentence: The night was gloomy, dark, and wet; the soldiers, wearied with watching at the ramparts, dozed, leaning on their weapons.Sienkiewicz, Henryk
+extort
+meaning: obtain by coercion or intimidation
+sentence: The owners, in turn, have called the lawyers shakedown artists bent on ruining their good reputations to extort money.New York Times (Jan 27, 2012)
+tarry
+meaning: leave slowly and hesitantly
+sentence: For two days I tarried in Paris, settling my little property.Ford, Paul Leicester
+perpetrate
+meaning: perform an act, usually with a negative connotation
+sentence: Come on it’s just a cruel joke perpetrated by the airline industry.”Forbes (Dec 11, 2011)
+decorum
+meaning: propriety in manners and conduct
+sentence: Wishing to observe the rules of decorum she invited him to stay for supper, though absolutely nothing had been prepared for a guest.Sudermann, Hermann
+luxuriant
+meaning: produced or growing in extreme abundance
+sentence: Her luxuriant curly hair, restrained by no net, but held together simply by a flowering spray, waved over her shoulders in all its rich abundance.Elisabeth Burstenbinder (AKA E. Werner)
+cant
+meaning: insincere talk about religion or morals
+sentence: It was the familiar cant of the man rich enough to affect disdain for money, and Wade was not impressed.Day, Holman
+enjoin
+meaning: give instructions to or direct somebody to do something
+sentence: He turned to beckon the others forward with one hand, while laying the other over his mouth in a gesture enjoining silence.Breckenridge, Gerald
+avarice
+meaning: extreme greed for material wealth
+sentence: The old man's fears were assailed with threats, and his avarice was approached by bribes, and he very soon capitulated.Abbott, John S. C. (John Stevens Cabot)
+edict
+meaning: a formal or authoritative proclamation
+sentence: An edict was issued by him forbidding any Christian to give instruction in Greek literature under any circumstances.Lightfoot, J. B.
+disconcert
+meaning: cause to lose one's composure
+sentence: Perplexed and disconcerted, I found no words to answer such an amazing sally.Chambers, Robert W. (Robert William)
+symmetry
+meaning: balance among the parts of something
+sentence: Even the staging displays symmetry, with actors lined up on either side in formal precision.New York Times (Jan 24, 2011)
+capitulate
+meaning: surrender under agreed conditions
+sentence: "Alas, no," said Bergfeld, mournfully, "the day after the battle our brave soldiers were surrounded by overwhelming forces and obliged to capitulate."Meding, Johann Ferdinand Martin Oskar
+arbitrate
+meaning: act between parties with a view to reconciling differences
+sentence: The Scottish throne was now disputed by many claimants, and the Scots asked Edward to arbitrate between them.Various
+cleave
+meaning: separate or cut with a tool, such as a sharp instrument
+sentence: Instead someone shouts "Go" and he is bearing down on me and almost cleaves my shield in two with his first blow.
+append
+meaning: add to the very end
+sentence: Some specimens will appear in the papers appended to this report.Various
+visage
+meaning: the human face
+sentence: An honest, quiet laugh often mantled his pale earnest visage.Turnbull, Robert
+horde
+meaning: a moving crowd
+sentence: Hordes of puzzled tourists, many with rolling suitcases attached, poured down the staircases.New York Times (Jan 1, 2012)
+parable
+meaning: a short moral story
+sentence: In most instances, I have closed my visits by reading some interesting story or parable.Frothingham, Octavius Brooks
+chastise
+meaning: censure severely
+sentence: She remembers an upsetting incident when a headmistress chastised her for working too much.
+foil
+meaning: hinder or prevent, as an effort, plan, or desire
+sentence: On March 1st, a Turkish newspaper reported that the country's intelligence service had foiled an attempt by Syrian agents to kidnap the colonel.
+veritable
+meaning: being truly so called; real or genuine
+sentence: The heavy rain had reduced this low-lying ground to a veritable quagmire, making progress very difficult even for one as unburdened as he was.Putnam Weale, B. L. (Bertram Lenox)
+grapple
+meaning: work hard to come to terms with or deal with something
+sentence: But, he said, all coastal communities will have to grapple with rising seas.New York Times (Mar 24, 2012)
+gentry
+meaning: the most powerful members of a society
+sentence: The mode of travel of the gentry was riding horses, but most people traveled by walking.Reilly, S. A.
+pall
+meaning: a sudden numbing dread
+sentence: Residents who fled in recent days spoke of the smell of death and piles of garbage drifting like snowbanks, casting a pall over the city.New York Times (Mar 7, 2012)
+maxim
+meaning: a saying that is widely accepted on its own merits
+sentence: The maxim "All is fair in love and war" was applied literally.Thomson, Basil
+projection
+meaning: a prediction made by extrapolating from past observations
+sentence: Volume is down 25 percent from five years ago, and projections show even further declines, said Postmaster General Patrick R. Donahoe.New York Times (Mar 22, 2012)
+prowess
+meaning: a superior skill learned by study and practice
+sentence: While our engineering prowess has advanced a great deal over the past sixty years, the principles of innovation largely have not.
+dingy
+meaning: thickly covered with ingrained dirt or soot
+sentence: Though composed amid the unromantic surroundings of a dingy, dusty, and neglected back room, the speech has become a memorable document.Herndon, William H.
+semblance
+meaning: the outward or apparent appearance or form of something
+sentence: He was perceptibly older, in the way in which people look older all at once after having long kept the semblance of youth.King, Basil
+tout
+meaning: advertise in strongly positive terms
+sentence: Testing is being touted as the means of making the U.S. education system competitive, even world-class.Washington Post (Mar 23, 2012)
+fortitude
+meaning: strength of mind that enables one to endure adversity
+sentence: Leigh Hunt bore himself in his captivity with cheerful fortitude, suffering severely in health but flagging little in spirits or industry.Colvin, Sidney
+asunder
+meaning: into parts or pieces
+sentence: In 1854, as I have already remarked, Nicaragua was split asunder by civil war.Powell, E. Alexander (Edward Alexander)
+rout
+meaning: an overwhelming defeat
+sentence: It's how Seattle won Sunday's game in Chicago, scoring 31 consecutive second-half points as an impressive comeback became an overwhelming rout.Seattle Times (Dec 19, 2011)
+staid
+meaning: characterized by dignity and propriety
+sentence: He was prim and staid and liked to do things in an orderly fashion.Doyle, A. Conan
+beguile
+meaning: influence by slyness
+sentence: I can no longer remain silent in the presence of the schemers who seek to beguile you.Bolanden, Conrad von
+purport
+meaning: have the often misleading appearance of being or intending
+sentence: Of course, none of these purported medical benefits have any grounding in science.Scientific American (Jan 28, 2012)
+deprave
+meaning: corrupt morally or by intemperance or sensuality
+sentence: The people who make up this typical Gorky offering are drunkards, thieves, depraved creatures of every kind.Kilmer, Joyce
+bequeath
+meaning: leave or give, especially by will after one's death
+sentence: No matter how often she changed her will, she told me, that diamond pin was always bequeathed to me.Wells, Carolyn
+enigma
+meaning: something that baffles understanding and cannot be explained
+sentence: Tails are often an enigma; many creatures have them, but scientists know little about their function, particularly for extinct species.
+assiduous
+meaning: marked by care and persistent effort
+sentence: He's an assiduous diary-keeper and regularly rereads ancient entries to check up on himself.
+vassal
+meaning: a person holding a fief
+sentence: And what was of still greater importance, he could only obtain taxes and soldiers from among the vassals, by the consent of their feudal lords.Freytag, Gustav
+quail
+meaning: draw back, as with fear or pain
+sentence: He quailed before me, and forgetting his new part in old habits, muttered an apology.Weyman, Stanley John
+outskirts
+meaning: area relatively far from the center, as of a city or town
+sentence: Ms. Waters talked about how she had spent the day at an organic farm on the outskirts of Beijing looking at vegetables for the dinner.New York Times (Nov 14, 2011)
+bulwark
+meaning: a protective structure of stone or concrete
+sentence: The cliffs are of imposing height, nearly three hundred feet: a formidable bulwark.White, Walter
+swerve
+meaning: an erratic turn from an intended course
+sentence: However, I was not going to swerve from my word.Johnstone, James Johnstone, chevalier de
+gird
+meaning: prepare oneself for action or a confrontation
+sentence: Protesters are girding for another police raid as several City Council members have called on protesters to leave.Washington Post (Nov 11, 2011)
+betrothed
+meaning: pledged to be married
+sentence: We are not betrothed'—her eyes filled with tears,—'he can never marry me; and he and my father have quarrelled.Fleming, George
+prospective
+meaning: of or concerned with or related to the future
+sentence: Most prospective homesteaders make the same mistake I did in buying horses, unless they are experienced.Micheaux, Oscar
+advert
+meaning: make reference to
+sentence: In the family circle it was rarely adverted to, and never except when some allusion to the approaching separation had to be made.Werner, E. T. C. (Edward Theodore Chalmers)
+peremptory
+meaning: not allowing contradiction or refusal
+sentence: This time it was not a request but a peremptory order to go at once to Cuba and undertake the work.Johnson, Willis Fletcher
+rudiment
+meaning: the elementary stage of any subject
+sentence: He retraced his steps, and came to Cape Girardeau, in Missouri, where he remained some time, acquiring the rudiments of the English language.Anonymous
+deduce
+meaning: reason from the general to the particular
+sentence: They then used models of global wind circulation to deduce which dust sources have become stronger and which weaker.
+halting
+meaning: proceeding in a fragmentary, hesitant, or ineffective way
+sentence: “I so much love cricket,” he said, shyly, in halting English.New York Times (Feb 22, 2012)
+ignominy
+meaning: a state of dishonor
+sentence: After all, we love nothing better than seeing the powerful and formerly smug dragged across the front pages in ignominy.
+ideology
+meaning: an orientation that characterizes the thinking of a group
+sentence: Bill O’Reilly and others picked up on the theme, summing up left-wing ideology as “San Francisco values.”Slate (Jan 19, 2012)
+pallid
+meaning: lacking in vitality or interest or effectiveness
+sentence: But too often the music sounded thin and pallid.New York Times (Apr 25, 2010)
+chagrin
+meaning: strong feelings of embarrassment
+sentence: But he was feeling deeply chagrined and mortified over his last escapade.White, Fred M. (Fred Merrick)
+obtrude
+meaning: thrust oneself in as if by force
+sentence: She had no right to obtrude herself into his life and to disturb it.Packard, Frank L. (Frank Lucius)
+audacious
+meaning: disposed to venture or take risks
+sentence: In an audacious operation that unfolded like a Hollywood thriller, the Navy Seals executed a daring raid deep into Pakistan to kill Osama bin Laden.New York Times (Sep 4, 2011)
+construe
+meaning: make sense of; assign a meaning to
+sentence: But nothing that was said Tuesday can be construed as good news.Washington Post (Sep 14, 2011)
+ford
+meaning: cross a river where it's shallow
+sentence: Sometimes they drive their teams through unsettled country, without roads, swimming and fording streams, clearing away obstructions, and camping where night overtakes them.Folsom, William Henry Carman
+repast
+meaning: the food served and eaten at one time
+sentence: Fragrant coffee, light rolls, fresh butter, ham and eggs, fried crocuses and soft crabs, formed the repast.Reid, Mayne
+stint
+meaning: an unbroken period of time during which you do something
+sentence: He found his unionized warehouse job after a stint working for his father, an accountant.New York Times (Mar 21, 2012)
+fresco
+meaning: a mural done with watercolors on wet plaster
+sentence: The little church has an ancient fresco of St. Christopher, placed, as usual, opposite the entrance.Conybeare, Edward
+dutiful
+meaning: willingly obedient out of a sense of respect
+sentence: Perhaps he thinks an engaged young lady should be demure and dutiful, having no eyes or ears for any one except her betrothed.Harland, Marion
+hew
+meaning: make or shape as with an axe
+sentence: They bought a log chain, and lumber for a door; the window frames were hewed from logs.Daughters of the American Revolution. Nebraska
+parity
+meaning: functional equality
+sentence: How many of the world’s problems would be solved, or at least greatly reduced, if women had true parity with men?New York Times (Dec 15, 2011)
+affable
+meaning: diffusing warmth and friendliness
+sentence: He was well liked and respected in these islands, for his affable manners had obtained for him much popularity.Various
+interminable
+meaning: tiresomely long; seemingly without end
+sentence: All was going well, but slowly, the time taken for the last few feet seeming to be interminable.Cumberland, Barlow
+pillage
+meaning: steal goods; take as spoils
+sentence: In addition great material losses were inflicted: seven hundred houses were destroyed, six hundred stores pillaged, and thousands of families utterly ruined.Straus, Oscar S.
+foreboding
+meaning: a feeling of evil to come
+sentence: Mr. Harding had strong forebodings that the trouble, so far from being ended, was only just beginning.Marsh, Richard
+rend
+meaning: tear or be torn violently
+sentence: In the distance heavy artillery was growling, and high explosive shells were bursting with a violence that seemed to rend the sky.Tracy, Louis
+livelihood
+meaning: the financial means whereby one supports oneself
+sentence: With businesses shut, fields untended and fishing abandoned many have lost their livelihoods as well as their homes, our correspondent says.
+deign
+meaning: do something that one considers to be below one's dignity
+sentence: To Mr. Gompers' courteous letter Czar Gary did not deign to reply.Foster, William Z.
+capricious
+meaning: determined by chance or impulse rather than by necessity
+sentence: Her admirers were capricious, returning to her at times, and then holding aloof again; and as for suitors, they entirely disappeared.Schubin, Ossip
+stupendous
+meaning: so great in size, force, or extent as to elicit awe
+sentence: The fact was so stupendous that Terry felt almost frightened over the great good fortune.Sabin, Edwin L. (Edwin Legrand)
+chaff
+meaning: material consisting of seed coverings and pieces of stem
+sentence: The wheat, being heavy, falls, while the chaff is blown away.Starr, Frederick
+innate
+meaning: not established by conditioning or learning
+sentence: In other words, one of our most essential abilities as humans--reading--is the product of a combination of innate and learned traits.
+reverie
+meaning: an abstracted state of absorption
+sentence: He stood still, seemingly lost in reverie, and quite oblivious to the group about him.Frey, Hildegard G. (Hildegard Gertrude)
+wrangle
+meaning: quarrel noisily, angrily, or disruptively
+sentence: Here were many fierce and bitter wrangles over vexed questions, turbulent scenes, displays of sectional feelings.Raymond, Evelyn
+crevice
+meaning: a long narrow opening
+sentence: The disruptive power of tree roots, growing in the crevices of rocks, is well known.Various
+ostensible
+meaning: appearing as such but not necessarily so
+sentence: This already-exhaustive book is studded with diary entries, academic papers and other ostensible evidence that its fictitious stories of destruction are true.New York Times (Jun 6, 2010)
+craven
+meaning: lacking even the rudiments of courage; abjectly fearful
+sentence: Was it for them to follow the craven footsteps of a cowardly generation?Robinson, Victor
+vestige
+meaning: an indication that something has been present
+sentence: Now, there was no vestige of vegetation; no living thing.Hopkins, William John
+plumb
+meaning: examine thoroughly and in great depth
+sentence: Tellingly, Ms. Liao said she had great difficulty finding three actors willing to plumb their own personalities.New York Times (Jun 1, 2011)
+reticent
+meaning: temperamentally disinclined to talk
+sentence: No questions were asked, and few indeed were the words spoken, his reticent manner preventing any undue familiarity.Maclean, John
+propensity
+meaning: an inclination to do something
+sentence: A longtime colleague, Gate Theatre director Michael Colgan, noted Kelly's old-school charms, punctuated by his propensity for bow ties and smart suits.Seattle Times (Feb 15, 2012)
+chide
+meaning: scold or reprimand severely or angrily
+sentence: He chided reporters as having “stalked” family members, demanding that his relatives be left alone.New York Times (Nov 8, 2011)
+espouse
+meaning: choose and follow a theory, idea, policy, etc.
+sentence: He said Islam should not be equated with terrorism or the kind of violence espoused by Bin Laden.
+raiment
+meaning: especially fine or decorative clothing
+sentence: Clothed in fine raiment and faring sumptuously every day, he soon developed into a handsome lad.Oxley, J. Macdonald (James Macdonald)
+intrepid
+meaning: invulnerable to fear or intimidation
+sentence: There are some very courageous and intrepid reporters in Afghanistan, including some who work for American media outlets.
+seemly
+meaning: according with custom or propriety
+sentence: The Baron was less conscientious, for he ate more beefsteak than was seemly, and talked a great deal of stupid nonsense, as was his wont.Hoffmann, Ernst Theordor Wilhelm
+allay
+meaning: lessen the intensity of or calm
+sentence: Our boy was scared and confused; we tried to allay his fears.New York Times (Mar 30, 2012)
+fitful
+meaning: occurring in spells and often abruptly
+sentence: She had lost her composure, her breath came in fitful, uneven gasps, and as she sat there she pressed one hand over her heart.Davis, Owen
+erode
+meaning: become ground down or deteriorate
+sentence: Another report today showed home prices fell more than forecast in November, eroding the wealth of families as they seek to rebuild savings.
+unaffected
+meaning: free of artificiality; sincere and genuine
+sentence: His conversation was unaffectedly simple and frank; his language natural; always abounding in curious anecdotes.Conway, Moncure Daniel
+canto
+meaning: a major division of a long poem
+sentence: Folengo’s next production was the Orlandino, an Italian poem of eight cantos, written in rhymed octaves.Various
+docile
+meaning: easily handled or managed
+sentence: Time and again humans have domesticated wild , producing tame individuals with softer appearances and more docile temperaments, such as dogs and guinea pigs.Scientific American (Jan 25, 2012)
+patronize
+meaning: treat condescendingly
+sentence: Ms. Paul herself noted that “glib talk about appreciating dyslexia as a ‘gift’ is unhelpful at best and patronizing at worst.”New York Times (Feb 6, 2012)
+teem
+meaning: be full of or abuzz with
+sentence: The coast, once teeming with traffic, is now lonely and deserted.Mahaffy, J. P.
+estrange
+meaning: arouse hostility or indifference in
+sentence: An atmosphere of distrust, suspicion and fear can cause workers to feel estranged from one another, Dr. Wright has written.New York Times (Jan 28, 2012)
+spat
+meaning: a quarrel about petty points
+sentence: Public spats are rare in the asset-management industry, where companies typically resolve disputes behind closed doors.
+warble
+meaning: sing or play with trills
+sentence: Meadow larks, as you have undoubtedly noticed, warble many different songs.Barrett, R. E.
+mien
+meaning: a person's appearance, manner, or demeanor
+sentence: Nevertheless, before going to meet Samuel, she assumed a calm and dignified mien.Kraszewski, Jo?zef Ignacy
+sate
+meaning: fill to contentment
+sentence: His appetite was not sated by any means, but he knew the danger of overloading his stomach, so he stopped.Dewey, Edward Hooker
+constituency
+meaning: the body of voters who elect a representative for their area
+sentence: Each posited that the blue-collar Democratic constituency rooted in the New Deal had grown increasingly conservative, alienated from “big government.”New York Times (Jan 14, 2012)
+patrician
+meaning: characteristic of the nobility or aristocracy
+sentence: Respectable ladies, long resident, wearing black poke bonnets and camel's-hair shawls, lifted their patrician eyebrows with disapproval.Brooks, Charles Stephen
+parry
+meaning: avoid or try to avoid fulfilling, answering, or performing
+sentence: The boys asked a few guarded questions, but gained no information whatever, their questions being parried in every instance.Mears, James R.
+practitioner
+meaning: someone who carries out a learned profession
+sentence: In particular, modern medical practitioners are coming around to the idea that certain illnesses cannot be reduced to one isolatable, treatable cause.Nature (Dec 21, 2011)
+ravel
+meaning: disentangle or separate out
+sentence: Overcasting is done by taking loose stitches over the raw edge of the cloth, to keep it from ravelling or fraying.Ontario. Ministry of Education
+infest
+meaning: occupy in large numbers or live on a host
+sentence: Many lived in dilapidated apartments with leaky pipes, broken windows, rooms full of mold, and walls infested with cockroaches and rats.New York Times (Jul 28, 2011)
+actuate
+meaning: give an incentive for doing something
+sentence: He knew that men were actuated by other motives, good and bad, than self-interest.Blease, Walter Lyon
+surly
+meaning: unfriendly and inclined toward anger or irritation
+sentence: But Blake, being surly and quarrelsome even when sober, gave the lapel a savage jerk, and reached out with his other hand.Chisholm, A. M. (Arthur Murray)
+convalesce
+meaning: get over an illness or shock
+sentence: Patients convalescing from pneumonia were evacuated to England or given Base Duty.Jahns, Lewis E.
+demoralize
+meaning: lower someone's spirits; make downhearted
+sentence: The storm clobbered many communities still recovering from the flooding two months ago caused by Hurricane Irene, leaving weary homeowners exhausted and demoralized.Washington Post (Nov 1, 2011)
+devolve
+meaning: grow worse
+sentence: As the rhetoric heated up inside, the violence outside devolved into chaos.
+alacrity
+meaning: liveliness and eagerness
+sentence: Every one exerted himself not only without murmuring and discontent, but even with an alacrity which almost approached to cheerfulness.Kippis, Andrew
+waive
+meaning: do without or cease to hold or adhere to
+sentence: Low rates have also led retail brokerages to waive fees on money market funds to avoid negative returns for their clients.
+unwonted
+meaning: out of the ordinary
+sentence: He must rush off to see his people, who no doubt were quite confounded by his unwonted energy.Speed, Nell
+seethe
+meaning: be in an agitated emotional state
+sentence: Outwardly quite calm and matter-of-fact, his mind was in a seething turmoil.Douglas, Hudson
+scrutinize
+meaning: look at critically or searchingly, or in minute detail
+sentence: Fans and commentators are scrutinizing every blemish: his turnovers, his weak left hand, his jump shot.New York Times (Mar 5, 2012)
+diffident
+meaning: lacking self-confidence
+sentence: Shyly diffident in the presence of strangers, her head was lowered.Packard, Frank L. (Frank Lucius)
+execrate
+meaning: curse or declare to be evil or anathema
+sentence: When all Great Britain was execrating Napoleon, picturing him as a devil with horns and hoofs, Byron looked upon him as the world's hero.Hubbard, Elbert
+implacable
+meaning: incapable of being appeased or pacified
+sentence: This man was a savage in his implacable desire for revenge.Kelly, Florence Finch
+pique
+meaning: a sudden outburst of anger
+sentence: A talented youngster who smashes his guitar in a fit of pique finds it magically reassembled just in time for a crucial concert.
+mite
+meaning: a slight but appreciable amount
+sentence: I never saw anybody so pleased with monkeys as she is, and not one mite afraid.Raymond, Evelyn
+encumber
+meaning: hold back, impede, or weigh down
+sentence: Two others were making slower progress for the reason that each was encumbered by supporting a disabled man.Westerman, Percy F. (Percy Francis)
+uncouth
+meaning: lacking refinement or cultivation or taste
+sentence: He had not stopped to consider her rough speech and uncouth manners.Johnston, Annie F. (Annie Fellows)
+petulant
+meaning: easily irritated or annoyed
+sentence: The black eyes emitted an angry flash, the voice that answered was sharp and petulant.Fleming, May Agnes
+expiate
+meaning: make amends for
+sentence: Wulphere was absolved on condition that he should expiate his crime by founding churches and monasteries all over his kingdom.Clifton, A. B.
+cavalier
+meaning: showing a lack of concern or seriousness
+sentence: Some would have given Nicklaus a cavalier response: polite nod while thinking, “Yeah, whatever.”New York Times (Jun 18, 2011)
+banter
+meaning: light teasing repartee
+sentence: Our easy banter had suddenly been replaced by strained and awkward interaction.Slate (Feb 15, 2012)
+bluster
+meaning: act in an arrogant, overly self-assured, or conceited manner
+sentence: Slade, despite his swaggers and blustering, was at heart a coward.Landon, Herman
+debase
+meaning: corrupt morally or by intemperance or sensuality
+sentence: Long oppression had not, on the whole, either blunted their intellects or debased their morals.Adler, Felix
+retainer
+meaning: a person working in the service of another
+sentence: This faithful and trusted retainer is greatly valued by his employers.Black, Helen C.
+subjugate
+meaning: make subservient; force to submit or subdue
+sentence: The Confederacy was led by thoroughgoing racists who wanted to keep blacks subjugated for all time because of the color of their skin.Slate (Apr 7, 2010)
+extol
+meaning: praise, glorify, or honor
+sentence: How I praised the duck at that first dinner, and extolled Madame's skill in cookery!Warren, Arthur
+fraught
+meaning: filled with or attended with
+sentence: But the ocean remains an unpredictable place, fraught with hazards.Scientific American (Apr 5, 2012)
+august
+meaning: profoundly honored
+sentence: At all times reserved in his manner and his bearing full of dignity, never before had she realized the majesty of General Washington’s august presence.Madison, Lucy Foster
+fissure
+meaning: a long narrow depression in a surface
+sentence: The brown bark is not very rough, though its numerous fissures and cracks give it a rugged appearance.Step, Edward
+knoll
+meaning: a small natural hill
+sentence: Opened in 2008, the park serves as a true public space; elderly couples stroll around the artificial lake as toddlers roll down grassy knolls.New York Times (May 7, 2010)
+callous
+meaning: emotionally hardened
+sentence: Outwardly merry and good-humoured, he was by nature coldly fierce, calculating, callous.Wingfield, Lewis
+inculcate
+meaning: teach and impress by frequent repetitions or admonitions
+sentence: But instruction in history has been for a long time systematically used to inculcate certain political sentiments in the pupils.Liebknecht, Karl Paul August Friedrich
+nettle
+meaning: disturb, especially by minor irritations
+sentence: Lincoln began these remarks by good-humored but nettling chaffing of his opponent.Various
+blanch
+meaning: turn pale, as if in fear
+sentence: He is silent, as if struck dumb, his face showing blanched and bloodless, while she utters a shriek, half terrified, half in frenzied anger.Reid, Mayne
+inscrutable
+meaning: difficult or impossible to understand
+sentence: The fashion industry is notoriously opaque and often inscrutable for outsiders, even ones as well connected as him.Seattle Times (Oct 1, 2011)
+tenacious
+meaning: stubbornly unyielding
+sentence: She was a tenacious woman, one who would even hold fast a thing which she no longer valued, simply because it belonged to her.Morris, Clara
+thrall
+meaning: the state of being under the control of another person
+sentence: Then Kiss commenced in earnest, and quickly held his audience in thrall.Farjeon, Benjamin Leopold
+exigency
+meaning: a pressing or urgent situation
+sentence: The exigency of the situation roused Mr. Popkiss' sluggish faculties into prompt action.Magnay, William
+disconsolate
+meaning: sad beyond comforting; incapable of being soothed
+sentence: Was there a bereaved mother or disconsolate sister weeping over their dead?Steward, T. G. (Theophilus Gould)
+impetus
+meaning: a force that makes something happen
+sentence: Critics say it has known mixed success at best, although supporters hope the U.S. drawdown could provide just the impetus it needs to thrive.
+imposition
+meaning: an uncalled-for burden
+sentence: On that far-away day he had considered the little, lost girl a nuisance and an imposition.Chisholm, A. M. (Arthur Murray)
+auspices
+meaning: kindly endorsement and guidance
+sentence: In March 2009, negotiations between Israel and Hamas were held in Cairo, under the auspices of the Egyptian intelligence agency.New York Times (Nov 9, 2011)
+sonorous
+meaning: full and loud and deep
+sentence: His voice rang out firmly now, a deep and sonorous bass.Bedford-Jones, H.
+exploitation
+meaning: an act that victimizes someone
+sentence: In a scathing report released last year, Amnesty International found there was widespread exploitation of migrants in Malaysia.
+bane
+meaning: something causing misery or death
+sentence: Knee pain is the bane of many runners, sometimes causing them to give up altogether.Seattle Times (Jun 7, 2010)
+dint
+meaning: force or effort
+sentence: If only certain puzzles could be solved by dint of sheer hard thinking!Marsh, Richard
+ignominious
+meaning: deserving or bringing disgrace or shame
+sentence: The great Ottawa chief saw his partially accomplished scheme withering into ignominious failure.Rudd, John
+amicable
+meaning: characterized by friendship and good will
+sentence: After a short colloquy the two men evidently came to an amicable understanding, for they shook hands.Kraszewski, Jo?zef Ignacy
+onset
+meaning: the beginning or early stages
+sentence: Thousands of families are living in makeshift camps as temperatures fall to freezing with the onset of winter.New York Times (Nov 10, 2011)
+conservatory
+meaning: a schoolhouse with special facilities for fine arts
+sentence: The young instrumental talent that is coming out of local music schools and conservatories is as amazingly good as you are going to find anywhere.
+zenith
+meaning: the point above the observer directly opposite the nadir
+sentence: In other words it never reaches the zenith, a point directly overhead.George H. Lowery.
+voluble
+meaning: marked by a ready flow of speech
+sentence: I find him charming: shy – yet easy to talk to – voluble and funny once he gets going.
+yeoman
+meaning: a free man who cultivates his own land
+sentence: On one extreme was the well-to-do yeoman farmer farming his own land.Reilly, S. A.
+levity
+meaning: a manner lacking seriousness
+sentence: The same balance of seriousness and levity runs through her plays, which put an absurdist spin on everyday problems.New York Times (May 7, 2010)
+rapt
+meaning: feeling great delight and interest
+sentence: She was watching the development of the investigation with rapt, eager attention.Mitford, Bertram
+sultry
+meaning: characterized by oppressive heat and humidity
+sentence: New guidelines from the American Academy of Pediatrics arrive just as school sports ramp up in sultry August temperatures.Washington Post (Aug 9, 2011)
+pinion
+meaning: restrain or bind
+sentence: The prisoners having dismounted, were placed in a line on the ground facing the guillotine, their arms pinioned.Various
+axiom
+meaning: a proposition that is not susceptible of proof or disproof
+sentence: The fundamental axiom of scientific thought is that there is not, never has been, and never will be, any disorder in nature.Huxley, Thomas H.
+descry
+meaning: catch sight of
+sentence: Looking off seaward, I could descry no sails.Drake, Samuel Adams
+retinue
+meaning: the group following and attending to some important person
+sentence: Despite his retinue of security personnel, Atambaev had been poisoned during his short tenure as prime minister.
+functionary
+meaning: a worker who holds or is invested with an office
+sentence: He was the functionary of the assize court, impaneling its juries, bringing accused men before it, and carrying out its penalties.Reilly, S. A.
+imbibe
+meaning: take in liquids
+sentence: "We're cornered at last," he said suddenly, as the old man set the bottle down after having imbibed the best half of its contents.Douglas, Hudson
+diversified
+meaning: having variety of character or form or components
+sentence: Funds in both categories tend to be highly diversified, typically with 100 or more stocks across at least 10 industries.Wall Street Journal (Feb 24, 2012)
+maraud
+meaning: raid and rove in search of plunder
+sentence: Its reporter says armed gangs and looters are marauding the streets.
+grudging
+meaning: petty or reluctant in giving or spending
+sentence: Expect delays, scattered outages and surly, grudging customer service in the interim.
+partiality
+meaning: a predisposition to like something
+sentence: She still showed a partiality for bright colors, by her gown of deep crimson.Sage, William
+philology
+meaning: the humanistic study of language and literature
+sentence: I had determined to study philology, chiefly Greek and Latin, but the fare spread out by the professors was much too tempting.Müller, F. Max (Friedrich Max)
+wry
+meaning: humorously sarcastic or mocking
+sentence: She also has a very understated but very wry sense of humour; watch out for it.
+caucus
+meaning: meet to select a candidate or promote a policy
+sentence: Representative Ron Paul of Texas isn’t campaigning in Florida, instead focusing on Maine, which will caucus in late February.
+permeate
+meaning: spread or diffuse through
+sentence: Florida’s summertime heat permeates almost every scene, becoming something like a character.New York Times (Mar 13, 2012)
+propitious
+meaning: presenting favorable circumstances
+sentence: With the Athens stock market down nearly 30 percent so far this year, it would not seem a propitious time for initial public offerings.New York Times (Jun 2, 2010)
+salient
+meaning: conspicuous, prominent, or important
+sentence: Bullying has become an increasingly salient problem for school-age children, and in rare cases has ended tragically with victims committing suicide.
+propitiate
+meaning: make peace with
+sentence: King Edward, having subdued the Welsh, “endeavoured to propitiate his newly acquired subjects by becoming a resident in the conquered country.Frith, William Powell
+excise
+meaning: remove by cutting
+sentence: Wielding a razor, Jefferson excised all passages containing supernaturalistic elements from the gospels, extracting what he took to be Jesus's pure ethical teachings.
+betoken
+meaning: be a signal for or a symptom of
+sentence: The haggard face and sombre eyes betokened considerable mental anguish.Young, F.E. Mills
+palatable
+meaning: acceptable to the taste or mind
+sentence: If nicely cooked in this way, cabbage is as palatable and as digestible as cauliflower.Ronald, Mary
+upbraid
+meaning: express criticism towards
+sentence: When Kahn warned of a serious economic "depression", he was upbraided by the White House for using such language.
+renegade
+meaning: someone who rebels and becomes an outlaw
+sentence: If he went off to another people he lost all standing among the Sioux and was thereafter treated as an outlaw and a renegade.Robinson, Doane
+hoary
+meaning: ancient
+sentence: The device of the trapped young person saved by books is a hoary one, but Ms. Winterson makes it seem new, and sulfurous.New York Times (Mar 8, 2012)
+pedantic
+meaning: marked by a narrow focus on or display of learning
+sentence: The reader is treated to pedantic little footnotes, and given a good deal of information which is either gratuitous or uninteresting.Hay, Ian
+coy
+meaning: showing marked and often playful evasiveness or reluctance
+sentence: It was funny watching such a solid person, based in faith and education, grow a trifle coy about the year of his birth.New York Times (Jul 11, 2010)
+troth
+meaning: a solemn pledge of fidelity
+sentence: She had pledged to him her troth, and she would not attempt to go back from her pledge at the first appearance of a difficulty.Trollope, Anthony
+encroachment
+meaning: entry to another's property without right or permission
+sentence: The move may mark yet another attempt by France to rein in what it sees as the encroachment of online services on the country's culture.BusinessWeek (Jan 8, 2010)
+belie
+meaning: be in contradiction with
+sentence: "It is a fine morning," he said, taken aback by my sudden movement, but affecting an indifference which the sparkle in his eye belied.Weyman, Stanley John
+armada
+meaning: a large fleet
+sentence: An armada of three hundred ships manned by eighteen thousand marines assembled in the bay on their way to the conquest of Algiers.Douglas, Frances
+succor
+meaning: assistance in time of difficulty
+sentence: Given his health woes, succession worries and persistent isolation, Mr. Kim may simply be seeking succor from what may be his last friend on earth.New York Times (May 5, 2010)
+imperturbable
+meaning: marked by extreme calm and composure
+sentence: Ordinarily imperturbable, even in the face of unexpected situations, he was now visibly agitated.Griggs, Sutton E. (Sutton Elbert)
+irresolute
+meaning: uncertain how to act or proceed
+sentence: I stood for a moment before I entered on my arduous undertaking, irresolute and hesitating, swayed by two conflicting impulses.Waugh, Joseph Laing
+knack
+meaning: a special way of doing something
+sentence: He had a special knack of hunting out farm houses, engaging madame in conversation, and coming away with bread, eggs, or cheese in his knapsack.Price, Lucien
+unseemly
+meaning: not in keeping with accepted standards of what is proper
+sentence: The square mile's upbeat mood may strike some as unseemly at a time of national gloom.
+accentuate
+meaning: stress or single out as important
+sentence: This sparkling marvel lies modestly nestled among the law courts, whose plainer modern buildings serve but to accentuate its wonderful beauty.Sherrill, Charles Hitchcock
+divulge
+meaning: make known to the public information previously kept secret
+sentence: She hectors her children not to divulge personal information like phone numbers online.Seattle Times (Nov 15, 2011)
+brawn
+meaning: the trait of possessing muscular strength
+sentence: He believes Hollywood has often have had an over-reliance on physical brawn as the deciding factor for portraying a strong man.
+burnish
+meaning: polish and make shiny
+sentence: Great cleanliness is enforced in all that belongs to a lighthouse, the reflectors and lenses being constantly burnished, polished, and cleansed.Whymper, Frederick
+palpitate
+meaning: beat rapidly
+sentence: After supper my heart started racing, palpitating like a tick.Isaacson, Lauren Ann
+promiscuous
+meaning: not selective of a single class or person
+sentence: A promiscuous assembly had gathered there—men of all creeds and opinions—and an "open-air" meeting was in progress.Whitney, Orson F.
+dissemble
+meaning: make believe with the intent to deceive
+sentence: Pictures have always dissembled – there are millions of snaps of miserable families grinning bravely – but now they directly lie.
+flotilla
+meaning: a fleet of small craft
+sentence: She was guarded by a flotilla of boats equipped with satellites, Global Positioning System devices, advanced navigation systems and shark shields.New York Times (Aug 11, 2011)
+invective
+meaning: abusive language used to express blame or censure
+sentence: There's much more name-calling, shouting and personal invective in American life than anywhere I've ever traveled outside the United States.Washington Post (Jan 15, 2011)
+hermitage
+meaning: the abode of a recluse
+sentence: All the rest of their time is passed in solitude in their hermitages, which are built quite separate from one another.Various
+despoil
+meaning: destroy and strip of its possession
+sentence: Wherever his lordship's army went, plantations were despoiled, and private houses plundered.Campbell, Charles
+sully
+meaning: make dirty or spotty
+sentence: Why sully the reputation of an otherwise fascinating online community with really deeply questionable, troubling content?Forbes (Feb 13, 2012)
+malevolent
+meaning: having or exerting a malignant influence
+sentence: So you don’t believe in evil, as an actual malevolent force?New York Times (Oct 28, 2011)
+irksome
+meaning: tedious or irritating
+sentence: It was pretty irksome passing the time in his enforced prison, and finally Andy went to sleep.Webster, Frank V.
+prattle
+meaning: speak about unimportant matters rapidly and incessantly
+sentence: She prattled on about the gossip of the town until Penny and her father were thoroughly bored.Clark, Joan
+subaltern
+meaning: inferior in rank or status
+sentence: The careful commanding officer of a regiment discourages his young subalterns from taking leave to Hill Stations.Casserly, Gordon
+welt
+meaning: a raised mark on the skin
+sentence: But red, itchy welts typically appear within 24 to 48 hours of being bitten.
+wreak
+meaning: cause to happen or to occur as a consequence
+sentence: The burden of paying for college is wreaking havoc on the finances of an unexpected demographic: senior citizens.Washington Post (Apr 1, 2012)
+tenable
+meaning: based on sound reasoning or evidence
+sentence: First, it is no longer really tenable – and in fact a bit disrespectful – to call a country like China an emerging economy.
+inimitable
+meaning: matchless
+sentence: Leave aside Spain, where Barcelona breeds its own, inimitable style, and the answer might be that we are rushing toward uniformity.New York Times (Sep 26, 2010)
+depredation
+meaning: a destructive action
+sentence: Wild elephants abound and commit many depredations, entering villages in large herds, and consuming everything suitable to their tastes.Various
+amalgamate
+meaning: bring or combine together or with something else
+sentence: Where two weak tribes amalgamated into one, there it exceptionally happened that two closely related dialects were simultaneously spoken in the same tribe.Engels, Friedrich
+immutable
+meaning: not subject or susceptible to change or variation
+sentence: We are mistaken to imagine a work of literature is or should be immutable, sculpted in marble and similarly impervious to change.
+proxy
+meaning: a person authorized to act for another
+sentence: Ideally, everybody over 18 should execute a living will and select a health care proxy — someone to represent you in medical matters.New York Times (Jan 17, 2011)
+dote
+meaning: shower with love; show excessive affection for
+sentence: He doted on him, just dearly loved him, and thought he could do no wrong,” Kredell said.Washington Post (Oct 17, 2011)
+reactionary
+meaning: extremely conservative or resistant to change
+sentence: Old people are often accused of being too conservative, and even reactionary.Chinard, Gilbert
+rationalism
+meaning: the doctrine that reason is the basis for regulating conduct
+sentence: Offering a religious rationale for policy goals threatens what for many has become the cherished principle of secular rationalism in public life.
+endue
+meaning: give qualities or abilities to
+sentence: To say the least of it, he was endued with sufficient intelligence to acquire an ordinary knowledge of such matters.Various
+discriminating
+meaning: showing or indicating careful judgment and discernment
+sentence: Jobs’ Apple specializes in delighting the most discriminating, hard-to-please customers.Forbes (Oct 12, 2011)
+brooch
+meaning: a decorative pin
+sentence: Upon her breast she wore a brooch of gold set with many precious stones.Butler, Pierce
+pert
+meaning: characterized by a lightly saucy or impudent quality
+sentence: Her pert, lively manner said she hadn't taken any wooden nickels lately.Schoenherr, John
+disembark
+meaning: exit from a ship, vehicle, or aircraft
+sentence: The immigrants disembarked from their ships tired and underfed—generally in poor health.Hughes, Thomas Proctor
+aria
+meaning: an elaborate song for solo voice
+sentence: Ms. Netrebko sang an elegantly sad aria with lustrous warmth, aching vulnerability and floating high notes.New York Times (Sep 27, 2011)
+trappings
+meaning: ornaments; embellishments to or characteristic signs of
+sentence: They were caparisoned in Indian fashion with gay colors and fancy trappings.Roy, Lillian Elizabeth
+abet
+meaning: assist or encourage, usually in some wrongdoing
+sentence: "Since YouTube, digital culture has aided and enhanced -- or maybe the better word is abetted -- the celebrity meltdown," said Wired magazine senior editor Nancy Miller.
+clandestine
+meaning: conducted with or marked by hidden aims or methods
+sentence: For Jordan, this is a clandestine relationship it would much prefer to have kept secret.BBC (Jan 5, 2010)
+distend
+meaning: swell from or as if from internal pressure
+sentence: Some kids said LaNiyah's distended abdomen looked like she was carrying a baby.Seattle Times (Apr 7, 2011)
+glib
+meaning: having only superficial plausibility
+sentence: The other sort of engineer understands that glib comparisons between computers and humans don't do justice to the complexities of either.
+pucker
+meaning: gather something into small wrinkles or folds
+sentence: Godmother,' she went on, puckering her forehead again in perplexity, 'it almost feels like feathers.Molesworth, Mrs. (Mary Louisa)
+rejoinder
+meaning: a quick reply to a question or remark
+sentence: "Not at all!" was Aunt Susannah's brisk rejoinder.Various
+spangle
+meaning: adornment consisting of a small piece of shiny material
+sentence: Magdalen's garments are rich with spangles; her mantle is scarlet; she has flowers in her luxuriant tresses, and looks a vain creature.O'Shea, John Augustus
+blighted
+meaning: affected by something that prevents growth or prosperity
+sentence: Hudec, whose career has been blighted by knee injuries and operations, won for the first time in more than four years.New York Times (Feb 4, 2012)
+nicety
+meaning: conformity with some standard of correctness or propriety
+sentence: They accepted the invitation; but Mrs. Rowlandson did not appreciate the niceties of Indian etiquette.Abbott, John S. C. (John Stevens Cabot)
+aggrieve
+meaning: infringe on the rights of
+sentence: Some fallout appears evident in donations from Wall Street executives, who feel particularly aggrieved by Mr. Obama’s criticisms and policies.New York Times (Feb 20, 2012)
+vestment
+meaning: a gown worn by the clergy
+sentence: And then a priest, arrayed in all his vestments, came in at the open door, and the prince and princess exchanged rings, and were married.Glinski, A. J.
+urbane
+showing a high degree of refinement
+Polished, urbane and gentlemanly—his manners were calculated to refine all around him.Judson, L. Carroll
+defray
+bear the expenses of
+The legislation also calls for $1.6 billion in spending cuts to help defray the disaster costs.Washington Post (Sep 26, 2011)
+spectral
+resembling or characteristic of a phantom
+Hawthorne’s figures are somewhat spectral; they lack flesh and blood.Merwin, Henry Childs
+munificent
+very generous
+They have shown themselves very loving and generous lately, in making a quite munificent provision for his traveling.Carlyle, Thomas
+dictum
+an authoritative declaration
+In other words, they seemed fully subscribed to Andy Warhol’s dictum that business art is the best art.New York Times (Dec 10, 2011)
+fad
+an interest followed with exaggerated zeal
+According to Chinese media, the hottest new fad in China involves selling small live-animal key chains.Time (Apr 5, 2011)
+scabbard
+a sheath for a sword or dagger or bayonet
+Drawing his own sabre from its scabbard, he pointed to a stain on it, saying, "This is the blood of an Englishman."Reed, Helen Leah
+adulterate
+make impure by adding a foreign or inferior substance
+Shady dealers along the supply chain frequently adulterate olive oil with low-grade vegetable oils and add artificial coloring.New York Times (Dec 7, 2011)
+beleaguer
+meaning: annoy persistently
+sentence: Rock concert ticket sales dropped sharply last year, sounding another sour note for the beleaguered music industry.
+gripe
+meaning: complain
+sentence: If America is going to gripe about the yuan’s rate, then China will complain about the dollar’s role.
+remission
+meaning: an abatement in intensity or degree
+sentence: After a few hours there is a remission of the pain, slight perspiration takes place, and the patient may fall asleep.Various
+exorbitant
+meaning: greatly exceeding bounds of reason or moderation
+sentence: Soon, stories began trickling across the Atlantic of crazed fans paying exorbitant sums to get into London gigs.Slate (Oct 10, 2011)
+invocation
+meaning: the act of appealing for help
+sentence: These dances are prayers or invocations for rain, the crowning blessing in this dry land.Roosevelt, Theodore
+cajole
+meaning: influence or urge by gentle urging, caressing, or flattering
+sentence: Hamilton, however, was not to be cajoled into friendliness by superficial compliment.Fisher, Harrison
+inclusive
+meaning: encompassing much or everything
+sentence: We are going to adhere to our basic programing strategy of nonpartisan information inclusive of all different points of view.
+interdict
+meaning: command against
+sentence: Failing to satisfy his examiners, he was interdicted from practice, but ignored the prohibition, and suffered more than one imprisonment in consequence.Worley, George
+abase
+meaning: cause to feel shame
+sentence: Ashamed, abased, degraded in his own eyes, he turned away his head.Caine, Hall, Sir
+obviate
+meaning: do away with
+sentence: Comfortable sleeping-cars obviate the necessity of stopping by the way for bodily rest, provided the traveller be physically strong and in good health.Ballou, Maturin Murray
+hurtle
+meaning: move with or as if with a rushing sound
+sentence: The hurricane was expected to hit Washington in the early hours of Sunday before hurtling toward New York City.
+unanimity
+meaning: everyone being of one mind
+sentence: On all other points of colonial policy, Mackenzie declared, people would be found to differ, but as regards the post office there was absolute unanimity.Smith, William, Sir
+mettle
+meaning: the courage to carry on
+sentence: The deployment will also test the emotional mettle of soldiers and their families.New York Times (Jun 26, 2010)
+interpolate
+meaning: insert words into texts, often falsifying it thereby
+sentence: Most scholars agree that these lines are interpolated, since they do not fit in with the rest of the poem.Various
+surreptitious
+meaning: marked by quiet and caution and secrecy
+sentence: He noticed that the peddler was eying the bag Scotty had picked up, and was trying to be surreptitious about it.Goodwin, Harold L. (Harold Leland)
+dissimulate
+meaning: hide feelings from other people
+sentence: From infancy these people have been schooled to dissimulate and hide emotion, and ordinarily their faces are as opaque as those of veteran poker players.Kephart, Horace
+ruse
+meaning: a deceptive maneuver, especially to avoid capture
+sentence: Overseas criminals use elaborate ruses, including phony websites, to trick job-seekers into helping transfer stolen funds.BusinessWeek (Aug 4, 2011)
+specious
+meaning: plausible but false
+sentence: You might be tempted to think of the biggest airline as the one with the most aircraft, but capacity differences make this reasoning specious.
+revulsion
+meaning: intense aversion
+sentence: After a first instinctive cry of horrified revulsion, the men reached down under water with their hands and drew out—a corpse.Livingston, Arthur
+hale
+meaning: exhibiting or restored to vigorous good health
+sentence: From a hearty, hale, corn-fed boy, he has become pale, lean, and wan.Adams, Abigail
+palliate
+meaning: lessen or to try to lessen the seriousness or extent of
+sentence: Divisions and inequalities persist, but government can palliate their effects with hard cash.
+obtuse
+meaning: lacking in insight or discernment
+sentence: The affair had been mentioned so plainly that it was impossible for the most dense and obtuse person not to have understood the allusion.Brazil, Angela
+querulous
+meaning: habitually complaining
+sentence: He was, at times, as querulous as a complaining old man.Williams, Ben Ames
+vagary
+meaning: an unexpected and inexplicable change in something
+sentence: Today such acquisitions are more likely to stay put, destined to survive both market fluctuations and the vagaries of style.New York Times (Sep 29, 2010)
+incipient
+meaning: only partly in existence; imperfectly formed
+sentence: Above all, medical teams will need to establish quick surveillance to identify health needs and pinpoint incipient outbreaks before they explode.Time (Jan 13, 2010)
+obdurate
+meaning: stubbornly persistent in wrongdoing
+sentence: Several appeared deeply affected, with tears of repentance standing in their eyes, others sullen and obdurate.Huth, Alexander
+grovel
+meaning: show submission or fear
+sentence: The two young men who drove them had fallen flat and were grovelling and wailing for mercy.Mitford, Bertram
+refractory
+meaning: stubbornly resistant to authority or control
+sentence: Beyond them the gardener struggled with a refractory horse that refused to draw his load of brush and dead leaves.Bacon, Josephine Dodge Daskam
+dregs
+meaning: sediment that has settled at the bottom of a liquid
+sentence: "Right got to go," Ali says, draining the dregs of his beer.
+ascendancy
+meaning: the state when one person or group has power over another
+sentence: But in a few days he had secured an almost incredible ascendancy over the sullen, starved, half-clothed army.Various
+supercilious
+meaning: having or showing arrogant disdain or haughtiness
+sentence: A supercilious, patronizing person—son of a wretched country parson—used to loll against the wall of your salon—with his nose in the air.Pinero, Arthur Wing, Sir
+pundit
+meaning: someone who has been admitted to membership in a field
+sentence: Pundits of agricultural science explore the sheds, I believe, the barns, stables, machine-rooms, and so forth, before inspecting the crops.Boyle, Frederick
+commiserate
+meaning: feel or express sympathy or compassion
+sentence: We had spent countless hours together drinking wine and commiserating about child-rearing, long Wisconsin winters and interrupted sleep.New York Times (Mar 24, 2011)
+alcove
+meaning: a small recess opening off a larger room
+sentence: They showed him where he would sleep, in a little closet-like alcove screened from the big room by a gay curtain.Wilson, Harry Leon
+assay
+meaning: make an effort or attempt
+sentence: He decided to assay one last project before giving up.New York Times (Mar 30, 2012)
+parochial
+meaning: narrowly restricted in outlook or scope
+sentence: But Republicans in Pennsylvania also have narrower and more parochial things to worry about.New York Times (Sep 17, 2011)
+conjugal
+meaning: relating to the relationship between a wife and husband
+sentence: They even had conjugal visits for prisoners — five hours in a private room every three months with your wife.New York Times (Nov 23, 2010)
+abjure
+meaning: formally reject or disavow a formerly held belief
+sentence: The caste abstain from liquor, and some of them have abjured all flesh food while others partake of it.Russell, R. V. (Robert Vane)
+frieze
+meaning: an ornament consisting of a horizontal sculptured band
+sentence: All the doorways mentioned above have cornices, and in those at Palmyra and Baalbec richly carved friezes with side corbels.Various
+ornate
+meaning: marked by complexity and richness of detail
+sentence: Unlike his literary icon, Herman Melville, he doesn’t adorn his writing with ornate flourishes or complicated scaffolding.Scientific American (Dec 20, 2011)
+inflammatory
+meaning: arousing to action or rebellion
+sentence: We don't know whether inflammatory language or images can incite the mentally ill to commit acts of violence.Time (Jan 13, 2011)
+machination
+meaning: a crafty and involved plot to achieve your ends
+sentence: He was continued a member of Congress until 1777 when his enemies succeeded in their long nursed machinations against him.Judson, L. Carroll
+mendicant
+meaning: a pauper who lives by begging
+sentence: In others are the broken-down mendicants who live on soup-kitchens and begging. Ritchie, J. Ewing (James Ewing)
+meander
+meaning: move or cause to move in a winding or curving course
+sentence: They paused beside one of the low stone walls that meandered in a meaningless fashion this way and that over the uplands.Vance, Louis Joseph
+bullion
+meaning: gold or silver in bars or ingots
+sentence: In times of economic turmoil, more people tend to invest in bullion gold.Washington Post (Mar 30, 2012)
+diffidence
+meaning: lack of self-assurance
+sentence: His grave diffidence and continued hesitation in offering an opinion confirmed me in my own.Froude, James Anthony
+makeshift
+meaning: done or made using whatever is available
+sentence: The house was still under construction, so he climbed up a ladder being used as a makeshift stairway, fell and injured his leg.New York Times (Apr 12, 2012)
+husbandry
+meaning: the practice of cultivating the land or raising stock
+sentence: The U.S. can take a lesson from Denmark, which has efficiently raised livestock without hurting farmers, by using better animal husbandry practices.Scientific American (Mar 22, 2011)
+podium
+meaning: a platform raised above the surrounding level
+sentence: Leyva beamed as he stood atop the podium, nodding as the American flag was raised and “The Star-Spangled Banner” played in his honor.New York Times (Oct 22, 2011)
+dearth
+meaning:an insufficient quantity or number
+sentence:A continuing dearth of snow in many U.S. spots usually buried by this time of year has turned life upside down.Washington Post (Jan 5, 2012)
+granary
+meaning:a storehouse for threshed grain or animal feed
+sentence:Here is where he does his husking, and the "clear corn" produced is stored away in some underground granary till It is needed.Seton, Ernest Thompson
+whet
+meaning:make keen or more acute
+sentence:While he described the fishing as “pretty good,” the silver salmon running in the creek only whetted his appetite to return to Alaska.Washington Post (Aug 17, 2011)
+imposture
+meaning:pretending to be another person
+sentence:He got somebody to prosecute him for false pretences and imposture, on the ground that Madame was a man. Leland, Charles Godfrey
+diadem
+meaning:an ornamental jeweled headdress signifying sovereignty
+sentence:I dethrone monarchs and the people rejoicing crown me instead, showering diadems upon my head.Tilney, Frederick Colin
+fallow
+meaning:undeveloped but potentially useful
+sentence:Several new prostate cancer drugs have been approved in the last couple of years, after a long fallow period, and others are in advanced development.New York Times (Nov 3, 2011)
+hubbub
+meaning:loud confused noise from many sources
+sentence:There was some good-humoured pushing and thrusting, the drum beating and the church bells jangling bravely above the hubbub.Weyman, Stanley J.
+dispassionate
+meaning:unaffected by strong emotion or prejudice
+sentence:The commission sitting by, judicial, dispassionate, presided with cold dignity over the sacrifice, and pronounced it good.Candee, Helen Churchill Hungerford, Mrs.
+harrowing
+meaning:causing extreme distress
+sentence:Belgium found itself in turmoil as hundreds of people came forward to offer harrowing accounts of abuse over several decades.New York Times (Jan 16, 2012)
+askance
+meaning:with suspicion or disapproval
+sentence:A secret marriage in these days would be looked upon askance by most people.Wood, Mrs. Henry
+lancet
+meaning:a surgical knife with a pointed double-edged blade
+sentence:His left arm was held by the second physician, while the chief surgeon bent over it, lancet in hand.Hay, Marie, Hon. (Agnes Blanche Marie)
+rankle
+meaning:make resentful or angry
+sentence:He was feeling more like himself now, though the memory of the bully’s sneering words rankled.Chadwick, Lester
+ramify
+meaning:have or develop complicating consequences
+sentence:Cometary science has ramified in unexpected ways during the last hundred years.Various
+gainsay
+meaning:take exception to
+sentence:That Whitman entertained a genuine affection for men and women is, of course, too obvious to be gainsaid. Rickett, Arthur
+polity
+meaning:a governmentally organized unit
+sentence:China needs a polity that can address its increasingly sophisticated society, and to achieve that there must be political reform, Mr. Sun said.New York Times (Mar 21, 2012)
+credence
+meaning:the mental attitude that something is believable
+sentence:"Well-known brand names that promote new products receive more credence than newcomers that people don't know about."
+indemnify
+meaning:make amends for; pay compensation for
+sentence:She put her affairs in order and left instructions that those whom she had unwittingly wronged should be indemnified out of her private fortune.Butler, Pierce
+ingratiate
+meaning:gain favor with somebody by deliberate efforts
+sentence:He became kindly and coaxing, leaning across the table with an ingratiating smile.King, Basil
+declivity
+meaning:a downward slope or bend
+sentence:In this frightful condition, the hunter grappled with the raging beast, and, struggling for life, they rolled together down a steep declivity.Goodrich, Samuel G. (Samuel Griswold)
+importunate
+meaning:making persistent or urgent requests
+sentence:The young man was then passionately importunate in the protestations of his love.Barr, Amelia Edith Huddleston
+passe
+meaning:out of fashion
+sentence:My friend is very keen on the new crowd; everything else he declares is " passe."Holliday, Robert Cortes
+whittle
+meaning:cut small bits or pare shavings from
+sentence:Tad followed, whittling on a stick with his knife and kicking at the shavings as they fell.Kjelgaard, James Arthur
+repine
+meaning:express discontent
+sentence:Those poor fellows above, accustomed to the wild freshness and freedom of the sea, how they must mourn and repine!O'Shea, John Augustus
+flay
+meaning:strip the skin off
+sentence:Once at the moose and hastily flaying the hide from the steaming meat my attention became centered on the task.Sinclair, Bertrand W.
+larder
+meaning:a small storeroom for storing foods or wines
+sentence:Mr. Goncalves’s larder holds staples like beefsteak, salt cod, sardines, olives, artichokes, hot and sweet peppers and plenty of garlic.New York Times (Feb 18, 2011)
+threadbare
+meaning:thin and tattered with age
+sentence:They were all poor folk, wrapped in threadbare cloaks or tattered leather.Brackett, Leigh Douglass
+grisly
+meaning:shockingly repellent; inspiring horror
+sentence:Television video showed a heavily damaged building and a grisly scene inside, with clothing and prayer mats scattered across a blood-splattered floor.New York Times (Aug 19, 2011)
+untoward
+meaning:not in keeping with accepted standards of what is proper
+sentence:Responding to criticism that cash payments are a classic means of tax evasion, he said he had done nothing untoward.New York Times (Aug 2, 2011)
+idiosyncrasy
+meaning:a behavioral attribute peculiar to an individual
+sentence:One of his well-known idiosyncrasies was that he would never allow himself to be photographed.Le Queux, William
+quip
+meaning:make jokes or witty remarks
+sentence:"I could have joined the FBI in a shorter period of time and with less documentation than it took to get that mortgage," she quipped.
+blatant
+meaning:without any attempt at concealment; completely obvious
+sentence:There was no blatant display of wealth, and every article of furniture bore signs of long though careful use.Bull, Charles Livingston
+stanch
+meaning:stop the flow of a liquid
+sentence:She did not attempt to stanch her tears, but sat looking at him with a smiling mouth, while the heavy drops fell down her cheeks.Stockley, Cynthia
+incongruity
+meaning:the quality of disagreeing
+sentence:Hanging out wet clothes and an American flag at the North Pole seemed an amusing incongruity.Cook, Frederick A.
+perfidious
+meaning:tending to betray
+sentence:The perfidious Italian at length confessed that it was his intention to murder his master, and then rob the house.Billinghurst, Percy J.
+platitude
+meaning:a trite or obvious remark
+sentence:But details are fuzzy and rebel leaders often resort to platitudes when dismissing suggestions of discord, saying simply that "Libya is one tribe."Wall Street Journal (Jun 20, 2011)
+revelry
+meaning:unrestrained merrymaking
+sentence:But all this revelry — dancing, drinks, exuberant youth — can be hard to manage.New York Times (Jun 3, 2010)
+delve
+meaning:turn up, loosen, or remove earth
+sentence:So she did what any reporter would do: she delved into the scientific literature and talked to investigators.New York Times (Dec 27, 2010)
+extenuate
+meaning:lessen or to try to lessen the seriousness or degree of
+sentence:Prosecutors often spend time weighing mitigating and extenuating circumstances before deciding to seek the death penalty.Washington Post (Oct 15, 2011)
+polemic
+meaning:a verbal or written attack, especially of a belief or dogma
+sentence:Would it be a polemic that denounced Western imperialism for using cinema to undermine emerging nations like Kazakhstan?New York Times (Oct 4, 2010)
+enrapture
+meaning:hold spellbound
+sentence:I was delighted, enraptured, beside myself--the world had disappeared in an instant.Spielhagen, Friedrich
+virtuoso
+meaning: someone who is dazzlingly skilled in any field
+sentence: Each of the seven instrumentalists was a virtuoso in his own right and had ample opportunity to prove it, often in long, soulful solos.New York Times (May 3, 2010)
+glower
+meaning: look angry or sullen as if to signal disapproval
+sentence: A moment later he would collapse, sit glowering in his chair, looking angrily at the carpet.Hecht, Ben
+mundane
+meaning: found in the ordinary course of events
+sentence: Now, it would seem, that the Chinese are getting back to their everyday concerns, paying attention to events more mundane and less cataclysmic.New York Times (Mar 20, 2012)
+fatuous
+meaning: devoid of intelligence
+sentence: They're too stupid, for one thing; they go on burning houses and breaking windows in their old fatuous way.McKenna, Stephen
+incorrigible
+meaning: impervious to correction by punishment
+sentence: She scolded and lectured her sister in vain; Cynthia was incorrigible.Various
+postulate
+meaning: maintain or assert
+sentence: In fact, when Einstein formulated his cosmological vision, based on his theory of gravitation, he postulated that the universe was finite.Scientific American (Jul 26, 2011)
+gist
+meaning: the central meaning or theme of a speech or literary work
+sentence: The syntax was a little off, even comical at times, but I got the gist of what was going on.Time (May 6, 2010)
+vociferous
+meaning: conspicuously and offensively loud
+sentence: The complaints grew so loud and vociferous that even President Obama was forced to address the backlash from Lisbon on Saturday.New York Times (Nov 23, 2010)
+purvey
+meaning: supply with provisions
+sentence: And we will agree also to purvey food for these horses and people during nine months.Villehardouin, Geoffroi de
+baleful
+meaning: deadly or sinister
+sentence: “But he is dead,” put in Fanning, wondering at the baleful expression of hatred that had come into the man’s face.Burnham, Margaret
+gibe
+meaning: laugh at with contempt and derision
+sentence: So much did their taunts prey upon him that he ran away from school to escape their gibes.Hubbard, Elbert
+dyspeptic
+meaning: irritable as if suffering from indigestion
+sentence: One may begin with heroic renunciations and end in undignified envy and dyspeptic comments outside the door one has slammed on one's self.Wells, H. G. (Herbert George)
+prude
+meaning: a person excessively concerned about propriety and decorum
+sentence: Criticising high-profile programmes about teenage sex education often means risking being written off as a prude.
+luminary
+meaning: a celebrity who is an inspiration to others
+sentence: Founded in 1947, the group's members have included such luminaries as Walt Disney, Spencer Tracy and another American president, Ronald Reagan.Seattle Times (Apr 11, 2011)
+amenable
+meaning: disposed or willing to comply
+sentence: He, Jean Boulot, being so amenable to sensible argument, would at once fall in with his views.Wingfield, Lewis
+willful
+meaning: habitually disposed to disobedience and opposition
+sentence: I crossed my arms like a willful child.New York Times (Aug 18, 2011)
+overbearing
+meaning: having or showing arrogant superiority to
+sentence: "True; but——" "Just so," interrupted Mr. Fauntleroy, in his decisive and rather overbearing manner.Wood, Mrs. Henry
+dais
+meaning: a platform raised above the surrounding level
+sentence: The throne was elevated on a dais of silver steps.Tracy, Louis
+automate
+meaning: operate or make run by machines rather than human action
+sentence: And because leap seconds are needed irregularly their insertion cannot be automated, which means that fallible humans must insert them by hand.
+enervate
+meaning: weaken physically, mentally, or morally
+sentence: The reviewers have enervated men’s minds, and made them indolent; few think for themselves.Rossetti, William Michael
+wheedle
+meaning: influence or urge by gentle urging, caressing, or flattering
+sentence: On one level, I expected incessant flattery in attempts to wheedle equipment or even money from American forces.New York Times (Aug 16, 2010)
+gusto
+meaning: vigorous and enthusiastic enjoyment
+sentence: The audience, surprisingly large given the inclement weather, responded with gusto, applauding each song, including those within the Shostakovich cycle.New York Times (Mar 2, 2010)
+bouillon
+meaning: a clear seasoned broth
+sentence: The meat soups are called broths, bouillon, or consommé, according to their richness.Ronald, Mary
+omniscient
+meaning: infinitely wise
+sentence: Robbe-Grillet responds that his work is in fact far less objective than the godlike, omniscient narrator who presides over so many traditional novels.
+apostate
+meaning: not faithful to religion or party or cause
+sentence: They are atheist conservatives — Mr. Khan an apostate to his family’s Islamic faith, Ms. Mac Donald to her left-wing education.New York Times (Feb 18, 2011)
+carrion
+meaning: the dead and rotting body of an animal; unfit for human food
+sentence: Habitually his diet is not carnivorous, but he will eat at times either carrion or living flesh.Reid, Mayne
+emolument
+meaning: compensation received by virtue of holding an office
+sentence: As the TUC has pointed out, those incomes – except for senior executives, whose emoluments seem to know few bounds – are rising more slowly than prices.
+ungainly
+meaning: lacking grace in movement or posture
+sentence: Thomas looked up furtively and saw that an ungainly human figure with crooked legs was being led into the church.Gogol, Nikolai Vasilievich
+impiety
+meaning: unrighteousness by virtue of lacking respect for a god
+sentence: That, however, is unbelief, extreme impiety, and a denial of the most high God.Bente, F. (Friedrich)
+decadence
+meaning: the state of being degenerate in mental or moral qualities
+sentence: But there are people who really do not want to import what they regard as Western decadence, especially public drunkenness.BBC (Jun 11, 2011)
+homily
+meaning: a sermon on a moral or religious topic
+sentence: In his New Year's homily, the pope said "words were not enough" to bring about peace, particularly in the Middle East.
+avocation
+meaning: an auxiliary activity
+sentence: Unlike many retired doctors, whom he says often have no life outside their profession, he always knew sailing would become his avocation.Newsweek (Nov 17, 2010)
+circumvent
+meaning: avoid or try to avoid fulfilling, answering, or performing
+sentence: Mr. Bloomberg said he would take several steps to circumvent obstacles to his proposals posed by city labor unions.New York Times (Jan 12, 2012)
+syllogism
+meaning: reasoning in which a conclusion is derived from two premises
+sentence: The conclusions arrived at by means of syllogisms are irresistible, provided the form be correct and the premises be true.Webster, W. F. (William Franklin)
+collation
+meaning: assembling in proper numerical or logical sequence
+sentence: In the case of early printed books or manuscripts, which are often not paged, special knowledge is needed for their collation.Rooke, Noel
+haggle
+meaning: wrangle, as over a price or terms of an agreement
+sentence: Obama said while officials can haggle over the makeup of spending cuts, the policy issues have no place in the measure.
+waylay
+meaning: wait in hiding to attack
+sentence: Sir Samuel Clithering was not, of course, a member of it; but he lurked about outside and waylaid us as we went in.Birmingham, George A.
+savant
+meaning: a learned person
+sentence: Frank had studied something of almost everything and imagined himself a savant.Roussel, John
+cohort
+meaning: a group of people having approximately the same age
+sentence: The current cohort of college students is, as many have pointed out, the first truly digital generation.Washington Post (Dec 1, 2011)
+unction
+meaning: excessive but superficial compliments with affected charm
+sentence: "You couldn't ask too much of me," he returned, with no unction of flattery, but the cheerfully frank expression of an ingenuous heart.Ogden, George W. (George Washington)
+adjure
+meaning: command solemnly
+sentence: “I adjure thee,” she said, “swear to me that you will never go near those Christians again or read their books.”Pennell, T. L. (Theodore Leighton)
+acrimony
+meaning: a rough and bitter manner
+sentence: Relations with India have been slowly improving, although talks ended in acrimony last July with the two sides indulging in a public spat over Kashmir.
+clarion
+meaning: loud and clear
+sentence: “He has been the single, clarion voice for commuter rail in central Florida for 20 years,” said Mayor Ken Bradley of Winter Park.New York Times (Jun 27, 2011)
+turbid
+meaning: clouded as with sediment
+sentence: The thick turbid sea rolled in, casting up mire and dirt from its depths.Reynolds, Mrs. Baillie
+cupidity
+meaning: extreme greed for material wealth
+sentence: Well educated, but very corrupt at heart, he found in his insatiable cupidity many ways of gaining money.Kraszewski, Jozef Ignacy
+disaffected
+meaning: discontented as toward authority
+sentence: The financial crisis, largely caused by banker incompetence, has created legions of disaffected customers.Forbes (Sep 15, 2011)
+preternatural
+meaning: surpassing the ordinary or normal
+sentence: In fact, they regarded the Spaniards as superior beings endowed with preternatural gifts.Gilson, Jewett Castello
+eschew
+meaning: avoid and stay away from deliberately
+sentence: Morrissey is among those seniors who are eschewing nursing homes in favor of independent living.Washington Post (Mar 23, 2012)
+expatiate
+meaning: add details, as to an account or idea
+sentence: He then expatiated on his own miseries, which he detailed at full length.Manzoni, Alessandro
+didactic
+meaning: instructive, especially excessively
+sentence: Let us have a book so full of good illustrations that didactic instruction shall not be needed.Various
+sinuous
+meaning: curved or curving in and out
+sentence: In origami parlance, Mr. Joisel was a wet-folder, dampening his paper so that he could coax it into sinuous curves.New York Times (Oct 20, 2010)
+rancor
+meaning: a feeling of deep and bitter anger and ill-will
+sentence: The current session of Parliament has so far produced only rancor, as opposition parties have shut down proceedings with angry, theatrical protests against corruption.New York Times (Aug 14, 2011)
+puissant
+meaning: powerful
+sentence: The ship was not fighting now, but yielding—a complacent leviathan held captive by a most puissant and ruthless enemy.Tracy, Louis
+homespun
+meaning: characteristic of country life
+sentence: His rural, homespun demeanor ordinarily might elicit snickers from India’s urban elite.New York Times (Aug 18, 2011)
+embroil
+meaning: force into some kind of situation or course of action
+sentence: But Mr. Marbury, often embroiled in controversy during his N.B.A. days, seems to have found some measure of peace in China.New York Times (Apr 1, 2012)
+pathological
+meaning: caused by or evidencing a mentally disturbed condition
+sentence: "Fixated individuals" — mentally ill people with a pathological focus on someone, often a stranger — make up the first group.
+resonant
+meaning: characterized by a loud deep sound
+sentence: His eyes were piercing but sad, his voice grand and resonant, suiting well the wrathful, impassioned Calvinism of his sermons.Barr, Amelia Edith Huddleston
+libretto
+meaning: the words of an opera or musical play
+sentence: In many great operas, composers have had to whittle down an epic literary work into a suitable libretto.New York Times (Mar 6, 2010)
+flail
+meaning: thrash about
+sentence: Exercise is prescribed, but when she joins an aqua aerobics class, she flails embarrassingly.New York Times (Apr 12, 2012)
+bandy
+meaning: discuss lightly
+sentence: Hillary Clinton’s name has been bandied about, but she’s made it clear she’s not interested.
+gratis
+meaning: costing nothing
+sentence: "Would you admit them gratis?" asked Mr. Castlemaine with a smile, "or would they have to pay, like ordinary residents in an hotel?"Hocking, Joseph
+upshot
+meaning: a phenomenon that is caused by some previous phenomenon
+sentence: The inevitable upshot of their growing social power was that brands wanted an expanded visual presence.
+aphorism
+meaning: a short pithy instructive saying
+sentence: General Sherman's famous aphorism that "War is Hell," has become classic.Fletcher, Samuel H.
+redoubtable
+meaning: worthy of respect or honor
+sentence: Captain Miles Standish was a redoubtable soldier, small in person, but of great activity and courage.Mann, Henry
+corpulent
+meaning: excessively fat
+sentence: Obesity is very common, but chiefly among the women, who while still quite young often become enormously corpulent.D'Anvers, N.
+benighted
+meaning: lacking enlightenment or knowledge or culture
+sentence: I alone was magnificently and absurdly aware—everyone else was benightedly out of it.James, Henry
+sententious
+meaning: abounding in or given to pompous or aphoristic moralizing
+sentence: He is the village wise man; very sententious; and full of profound remarks on shallow subjects.Irving, Washington
+cabal
+meaning: a clique that seeks power usually through intrigue
+sentence: Supposedly, see, there's this global cabal of scientists conspiring to bring about socialist one-world government.
+paraphernalia
+meaning: equipment consisting of miscellaneous articles
+sentence: It's outfitted with cricket bats and other antique sports paraphernalia.Seattle Times (Sep 27, 2011)
+vitiate
+meaning: make imperfect
+sentence: His talent in writing is vitiated by his affectation and other faults.Blair, Emma Helen
+adulation
+meaning: exaggerated flattery or praise
+sentence: And celebrities get all this adulation for something that is not about character, it's about talent.
+quaff
+meaning: swallow hurriedly or greedily or in one draught
+sentence: Meanwhile the officers under the tree had got served, and, cups in hand, were quaffing joyously.Reid, Mayne
+unassuming
+meaning: not arrogant
+sentence: Parr's conduct after his most heroic actions was thoroughly modest and unassuming.Greely, Adolphus W.
+libertine
+meaning: a dissolute person
+sentence: Still, Mr. Awlaki was neither among the most conservative Muslim students nor among the libertines who tossed aside religious restrictions on drinking and sex.New York Times (May 8, 2010)
+maul
+meaning: injure badly
+sentence: Hundreds of concert goers were mauled as they left by what The New York Times called “bands of roving youths.”New York Times (Aug 17, 2011)
+adage
+meaning: a condensed but memorable saying embodying an important fact
+sentence: So he focuses on the fans and embraces the adage, “Living well is the best revenge.”New York Times (Mar 25, 2011)
+expostulation
+meaning: the act of expressing earnest opposition or protest
+sentence: He even believed he saw visions with his own bodily eyes, and no expostulations of his friends could drive this belief out of his head.Hoffmann, E. T. A. (Ernst Theodor Amadeus)
+tawdry
+meaning: tastelessly showy
+sentence: It was a tawdry affair, all Cupids and cornucopias, like a third-rate wedding cake.Wilde, Oscar
+trite
+meaning: repeated too often; overfamiliar through overuse
+sentence: The subject—a deathbed scene—might seem at first sight to be a trite and common one.Lancey, Magdalene de
+hireling
+meaning: a person who works only for money
+sentence: Why should I?—a mere police detective, who had been hired to do a service and paid for it like any other hireling.Hanshew, Thomas W.
+ensconce
+meaning:fix firmly
+sentence: Though she is firmly ensconced in a writing career, Ms. Freud, 48, said that in the early days she missed acting terribly.New York Times (Oct 30, 2011)
+egregious
+meaning:conspicuously and outrageously bad or reprehensible
+sentence: “These offenses are very serious, even egregious,” the judge said.Washington Post (Sep 12, 2011)
+cogent
+meaning:powerfully persuasive
+sentence: His thesis was too cogent, and appealed too powerfully to all classes of the Upper Canada community, to be anything but irresistible.Morison, J. L. (John Lyle)
+incisive
+meaning:demonstrating ability to recognize or draw fine distinctions
+sentence: A half-hour of informed and incisive questioning by Mr. Russert would have demolished Mr. Trump.New York Times (May 1, 2011)
+errant
+meaning:straying from the right course or from accepted standards
+sentence: As the crowd voiced its displeasure, the referees made sure Wisconsin got the ball, but pass was errant and rolled out of bounds at midcourt.Seattle Times (Feb 28, 2012)
+sedulous
+meaning:marked by care and persistent effort
+sentence: Sedulous attention and painstaking industry always mark the true worker.Calhoon, Major A.R.
+incandescent
+meaning:characterized by ardent emotion, intensity, or brilliance
+sentence: Kirkwood's anger cooled apace; at worst it had been a flare of passion— incandescent.Vance, Louis Joseph
+derelict
+meaning:in deplorable condition
+sentence: Others are clustered under a tin awning by a derelict railway station or in similarly run-down school buildings.
+entomology
+meaning:the branch of zoology that studies insects
+sentence: From the department of entomology you expect to learn something about the troublesome insects, which are so universal an annoyance.Latham, A. W.
+execrable
+meaning:unequivocally detestable
+sentence: But minds were so overexcited at the time that the parties mutually accused each other, on all occasions, of the most execrable crimes.Imbert de Saint-Amand, Arthur Léon, baron
+sluice
+meaning:pour as if from a conduit that carries a rapid flow of water
+sentence: At 4:15 p.m., as the rain was sluicing off roofs in sheets, the firemen moved the trucks to higher ground.New York Times (Aug 31, 2011)
+moot
+meaning:of no legal significance, as having been previously decided
+sentence: The statement from Hermitage said even in the Soviet period no defendant had been tried after death, when charges were generally considered moot.New York Times (Feb 7, 2012)
+evanescent
+meaning:tending to vanish like vapor
+sentence: Time seems stopped but it is moving on, and every glimmer of light is evanescent, flitting.
+vat
+meaning:a large open vessel for holding or storing liquids
+sentence: The cream remains in the large vat about twenty-four hours before it is churned.Chamberlain, James Franklin
+dapper
+meaning:marked by up-to-dateness in dress and manners
+sentence: Thoroughly dapper, he took off his black-and-white pinstriped suit jacket — with its pocket-square flair — and weaved in and out among them, his voice ever rising.New York Times (Jan 22, 2011)
+asperity
+meaning:harshness of manner
+sentence: All this proceeds from the old man, whose proper character it is to be angry and bitter, and to exhibit rancor and asperity.Arndt, Johann
+flair
+meaning:a natural talent
+sentence: In fact, while Lamarr qualified as an inventive genius for her artistic flair, she fell somewhat short on her scientific acumen.Slate (Nov 28, 2011)
+mote
+meaning:a tiny piece of anything
+sentence: He took his discharge out of his pocket, brushed every mote of dust from the table, and spread the document before their eyes.Auerbach, Berthold
+circumspect
+meaning:careful to consider potential consequences and avoid risk
+sentence: Obama administration officials argue that new regulations are forcing insurers to be more circumspect about raising rates.New York Times (Sep 27, 2011)
+inimical
+meaning:not friendly
+sentence: The Hindu idea is that so long as justice and equity characterise a king’s rule, even beasts naturally inimical are disposed to live in friendship.Kingscote, Mrs. Howard
+apropos
+meaning:of a suitable, fitting, or pertinent nature
+sentence: I found myself thinking vaguely about things that were not at all apropos to the situation.Stockley, Cynthia
+gruel
+meaning:a thin porridge
+sentence: He says, keep them on just two pints of Indian-meal gruel—by which he appears to mean thin hasty pudding—a day, and no more.Alcott, William A. (William Andrus)
+gentility
+meaning:elegance by virtue of fineness of manner and expression
+sentence: This was no rough bully of the seas; Carew's bearing and dandified apparel bespoke gentility.Springer, Norman
+disapprobation
+meaning:pronouncing as wrong or morally culpable
+sentence: Mr Ruthven shook his head and declared that he regarded the conduct of her persecutors with grave moral disapprobation.Wheeler, E.J.
+cameo
+meaning:engraving or carving in low relief on a stone
+sentence: The trinket was a small round cameo cut out of mother-of-pearl and set in gold; it represented St. George and the dragon.J?kai, M?r
+gouge
+meaning:swindle; obtain by coercion
+sentence: Shortages also have raised concerns about higher prices and gouging by wholesale drug companies that obtain supplies of hard-to-get drugs and jack up the costs.Seattle Times (Jan 20, 2012)
+oratorio
+meaning:a musical composition for voices and orchestra
+sentence: Mendelssohn had no sooner completed his first oratorio, "St. Paul," than he began to think about setting another Bible story to music.Edwards, Frederick George
+inclement
+meaning:severe, of weather
+sentence: Be prepared for inclement weather and possible ice and snow on park roads.Seattle Times (Oct 16, 2011)
+scintilla
+meaning:a tiny or scarcely detectable amount
+sentence: Gardner "never expressed one scintilla of remorse for his attack upon the victim" despite overwhelming evidence, prosecutors wrote in a sentencing memo.
+confluence
+meaning:a flowing together
+sentence: And indeed, before the 13th century, there was an extraordinary confluence of genius and innovation, particularly around Baghdad.New York Times (Dec 28, 2010)
+squalor
+meaning:sordid dirtiness
+sentence: What can be expected of human beings, crowded in such miserable habitations, living in filth and squalor, and often pinched with hunger?Field, Henry M. (Henry Martyn)
+stricture
+meaning:severe criticism
+sentence: While gratefully accepting the generous praises of our friends, we must briefly reply to some strictures by our critics.Stanton, Elizabeth Cady
+emblazon
+meaning:decorate with heraldic arms
+sentence: His coat of arms was emblazoned on the cover.Mason, A. E. W. (Alfred Edward Woodley)
+augury
+meaning:an event indicating important things to come
+sentence: This is always an encouraging sign, and an augury of success.Alger, Horatio
+abut
+meaning:lie adjacent to another or share a boundary
+sentence: It depicts a mountain landscape near Kingston, a historic town abutting the Hudson River.New York Times (Jan 8, 2010)
+banal
+meaning:repeated too often; overfamiliar through overuse
+sentence: Highly dramatic incidents are juxtaposed with comparatively banal ones; particular attention is given to tales of doomed love affairs.New York Times (Dec 4, 2011)
+congeal
+meaning:solidify, thicken, or come together
+sentence: Boil down the syrup to half its original quantity, but take care that it does not boil long enough to congeal or become thick.Baru?, Sulpice
+pilfer
+meaning:make off with belongings of others
+sentence: Many young people scavenge for reusable garbage, living on proceeds from pilfered construction material and other recyclables.Seattle Times (Feb 8, 2012)
+malcontent
+meaning:a person who is unsatisfied or disgusted
+sentence: Now, unfortunately, some malcontents among the hands here have spread their ideas, and a strike has been called.Maitland, Robert
+sublimate
+meaning:direct energy or urges into useful activities
+sentence: They might instead have passionate friendships, or sublimate their urges into other pursuits.New York Times (Jun 4, 2010)
+eugenic
+meaning: causing improvement in the offspring produced
+sentence: Eugenics was aimed at creating a better society by filtering out people considered undesirable, ranging from criminals to those imprecisely designated as “feeble-minded.”Washington Post (Aug 1, 2011)
+lineament
+meaning: the characteristic parts of a person's face
+sentence: The tears stood in Muriel's eyes, and her face was very pale, but serenity marked every lineament.Davidson, John
+firebrand
+meaning: someone who deliberately foments trouble
+sentence: But Hassan is not some teenage firebrand hurling rocks; he’s a slight, graying scholar committed to peace.New York Times (Jun 9, 2011)
+fiasco
+meaning: a complete failure or collapse
+sentence: The Stuttgart protests became a national fiasco in late September, when protesters clashed with police wielding batons and water cannons.Newsweek (Dec 14, 2010)
+foolhardy
+meaning: marked by defiant disregard for danger or consequences
+sentence: Many mistakes—extravagant purchases, foolhardy investments—are made in the first months after a windfall.Wall Street Journal (Feb 24, 2012)
+retrench
+meaning: tighten one's belt; use resources carefully
+sentence: But there was only one way open to me at present—and that was to retrench my expenses.Caine, Hall, Sir
+ulterior
+meaning: lying beyond what is openly revealed or avowed
+sentence: Shop window displays may help prettify shopping thoroughfares, but any savvy retailer has the ulterior motive of self promotion.BBC (Feb 3, 2010)
+equable
+meaning: not varying
+sentence: His must have been that calm, equable temperament not easily ruffled, which goes with the self-respecting nature.Hurll, Estelle M. (Estelle May)
+inured
+meaning: made tough by habitual exposure
+sentence: But he had become inured to the rush and whirr of missiles, and now paid no heed whatever to them.Mitford, Bertram
+invidious
+meaning: containing or implying a slight or showing prejudice
+sentence: "After an old-fashioned, all-round team performance … it might seem invidious to single out one player," admits the paper before singling out one player.
+unmitigated
+meaning: not diminished or moderated in intensity or severity
+sentence: In order to be well directed, sympathy must consider all men, and not the individual alone; only then is it an unmitigated good.Williams, C. M.
+concomitant
+meaning: an event or situation that happens at the same time
+sentence: The conclusion must be drawn that every epidemic of bubonic plague is caused by the concomitant rat plague.Scientific American (Jan 21, 2011)
+cozen
+meaning: cheat or trick
+sentence: Dicing-houses, where cheaters meet, and cozen young men out of their money.Various
+phlegmatic
+meaning: showing little emotion
+sentence: Humanity, when surfeited with emotion, becomes calm, almost phlegmatic.Tracy, Louis
+dormer
+meaning: a gabled extension built out from a sloping roof
+sentence: Other features, such as the front French doors and two roof dormers with curved-top windows and operable shutters, give this home a pleasing, well-balanced presence.Southern Living (Apr 14, 2010)
+pontifical
+meaning: denoting or governed by or relating to a bishop or bishops
+sentence: The high priest made no resistance, but went forth in his pontifical robes, followed by the people in white garments, to meet the mighty warrior.Lord, John
+disport
+meaning: occupy in an agreeable, entertaining or pleasant fashion
+sentence: Straightway the glade in which they sat was filled with knights, ladies, maidens, and esquires, who danced and disported themselves right joyously.Spence, Lewis
+apologist
+meaning: a person who argues to defend some policy or institution
+sentence: Tories, and apologists for Great Britain, have written much about a justification for this action, but there is no real justification.Barce, Elmore
+abeyance
+meaning: temporary cessation or suspension
+sentence: My feelings of home-sickness had returned with redoubled strength after being long in abeyance.Boldrewood, Rolf
+enclave
+meaning: an enclosed territory that is culturally distinct
+sentence: And its suburban schools, rather than being exclusive enclaves, include children whose parents can't afford a house in the neighborhood.Washington Post (Jan 11, 2011)
+improvident
+meaning: not supplying something useful for the future
+sentence: He was industrious but improvident; he made money and he lost it.Hubbard, Elbert
+disquisition
+meaning: an elaborate analytical or explanatory essay or discussion
+sentence: Cumulatively, what emerges from To Kill a Mockingbird is a thoughtful disquisition that encompasses – and goes beyond – the question of racial bias at its worst.
+categorical
+meaning: not modified or restricted by reservations
+sentence: "European leaders were united, categorical and crystal clear: Gaddafi must go," British Prime Minister David Cameron said.
+placate
+meaning: cause to be more favorably inclined
+sentence: The East India Company was placated by the concession of further exemptions in its favour.Smith, A. D.
+redolent
+meaning: serving to bring to mind
+sentence: Here, however, are congregated a vast number of curious and interesting objects, while the place is redolent of vivid historical associations.Ballou, Maturin Murray
+felicitous
+meaning: exhibiting an agreeably appropriate manner or style
+sentence: The first book is the finest, sparkling with felicitous expressions and rising frequently to true poetry.Dennis, John
+gusty
+meaning: blowing in puffs or short intermittent blasts
+sentence: Winds could get gusty, occasionally blowing at more than 30 miles per hour.
+natty
+meaning: marked by up-to-dateness in dress and manners
+sentence: He wore a checked suit, very natty, and was more than usually tall and fine-looking.Green, Anna Katharine
+pacifist
+meaning: opposed to war
+sentence: He was, furthermore, a real pacifist, believing that war is debasing morally and disastrous economically.Seymour, Charles
+buxom
+meaning: healthily plump and vigorous
+sentence: Mrs. Connelly—a round, rosy, buxom Irishwoman, with a mellow voice, laughing eye, and artist-red hair—was very much taken with their plan.Douglas, Amanda Minnie
+heyday
+meaning: the period of greatest prosperity or productivity
+sentence: Playboy's most popular years are well behind it - the magazine enjoyed its heyday in the 1970s.Washington Post (Jan 10, 2011)
+herculean
+meaning: displaying superhuman strength or power
+sentence: He made herculean efforts to get on terms with his examination subjects, and worked harder than he had ever done in his life before.Marshall, Archibald
+burgeon
+meaning: grow and flourish
+sentence: Brooklyn's burgeoning dining scene has even developed a following among Manhattan food lovers.
+crone
+meaning: an ugly, evil-looking old woman
+sentence: The aged crone wrinkled her forehead and lifted her grizzled eyebrows, still without looking at him.Myrick, Frank
+prognosticate
+meaning: make a prediction about; tell in advance
+sentence: How strange it is that our dreams often prognosticate coming events!Huth, Alexander
+lout
+meaning: an awkward stupid person
+sentence: But this question was beyond the poor lout's intelligence; he could only blubber and fend off possible chastisement.Williams, J. Scott (John Scott)
+simper
+meaning: smile in an insincere, unnatural, or coy way
+sentence: Mrs. Barnett's mouth simpered at the implied flattery; but her eyes, always looking calculatingly for substantial results, were studying Reedy Jenkins.Hamby, William H. (William Henry)
+iniquitous
+meaning: characterized by injustice or wickedness
+sentence: This was some piece of wickedness concocted by the venomous brain of the iniquitous Vicar, more abominable than all his other wickednesses.Trollope, Anthony
+rile
+meaning: disturb, especially by minor irritations
+sentence: The prospect of seeing Ms. Palin tour Alaska’s wild habitats may rile some people who oppose her opinions about climate change.New York Times (Mar 25, 2010)
+sentient
+meaning: endowed with feeling and unstructured consciousness
+sentence: The money fluttered from his hand to the floor, where it lay like a sentient thing, staring back as if mocking him.Hitchcock, Lucius W.
+garish
+meaning: tastelessly showy
+sentence: With its opulently garish sets and knee-jerk realism, the production dwarfed the cast, no matter what stars were singing.New York Times (Jan 2, 2011)
+readjustment
+meaning: the act of correcting again
+sentence: While earpieces are not uncomfortable, they do sometimes come loose, requiring readjustment.Slate (Apr 17, 2012)
+erstwhile
+meaning: belonging to some prior time
+sentence: Sony, whose erstwhile dominance in consumer electronics has been eroded by the likes of Samsung, could beat rivals to a potentially new generation of devices.
+aquiline
+meaning: curved down like an eagle's beak
+sentence: The nose slightly aquiline, curving at the nostril; while luxuriant hair, in broad plaits, fell far below her waist.Various
+bilious
+meaning: irritable as if suffering from indigestion
+sentence: But his sleep had not refreshed him; he waked up bilious, irritable, ill-tempered, and looked with hatred at his room.Garnett, Constance
+vilify
+meaning: spread negative information about
+sentence: The trial was televised and the victim's identity became known, resulting in her being vilified by almost the entire town.
+nuance
+meaning: a subtle difference in meaning or opinion or attitude
+sentence: By working so hard to simplify things, we lose any nuance or ability to deal with folks’ individual circumstances.Washington Post (Oct 3, 2011)
+gawk
+meaning: look with amazement
+sentence: He speaks mainly of his humiliation at lying on the sidewalk as hipsters gawked.New York Times (Apr 9, 2012)
+refectory
+meaning: a communal dining-hall, usually in a monastery
+sentence: Meanwhile, the soup was getting cold in the refectory, so that the assembled brotherhood at last fell to, without waiting any longer for the Abbot.Scheffel, Joseph Victor von
+palatial
+meaning: suitable for or like a large and stately residence
+sentence: The house was very large; its rooms almost palatial in size, had been finished in richly carved hardwood panels and wainscoting, mostly polished mahogany.Hitchcock, Frederick L. (Frederick Lyman)
+mincing
+meaning: affectedly dainty or refined
+sentence: She went, carrying her little head very high indeed, and taking dainty, mincing steps.Banks, Nancy Huston
+trenchant
+meaning: having keenness and forcefulness and penetration in thought
+sentence: They are written in a serio-comic tone, and for sparkling wit, trenchant sarcasm, and dramatic dialectics surpass anything ever penned by Lessing.Lessing, Gotthold Ephraim
+emboss
+meaning: raise in a relief
+sentence: Requests may also be made of the stationer to use an embossed plate so that the letters stand out in relief.Eichler, Lillian
+proletarian
+meaning: a member of the working class
+sentence: As yet, the true proletarian wage-earner, uprooted from his native village and broken away from the organization of Indian society, is but insignificant.Stoddard, Lothrop
+careen
+meaning: pitching dangerously to one side
+sentence: I turned the steering wheel all the way to one side, and found myself careening backward in a violent arc.Vogel, Nancy
+debacle
+meaning: a sound defeat
+sentence: The Broncos are coming off their worst season in franchise history, a 4-12 debacle that included issues on and off the field.Newsweek (Jan 9, 2011)
+sycophant
+meaning: a person who tries to please someone to gain an advantage
+sentence: The people around the king are sycophants who are looking after their own personal advantage.Coffin, Charles Carleton
+crabbed
+meaning: annoyed and irritable
+sentence: He grew crabbed and soured, his temper flashing out on small provocation.Weyman, Stanley J.
+archetype
+meaning: something that serves as a model
+sentence: Newport, R.I., looks like a perfect archetype of a small, seaside New England town.
+cryptic
+meaning: of an obscure nature
+sentence: The authorities, beyond some cryptic language about the death being sudden but not suspicious, have released no details.New York Times (Aug 24, 2011)
+penchant
+meaning: a strong liking
+sentence: But sometimes, old Wall Street habits — including a penchant for expensive luxuries — are hard to break.New York Times (Mar 31, 2012)
+bauble
+meaning: cheap showy jewelry or ornament
+sentence: But men were buying Valentine's baubles for their honeys long before the first Zales ever opened its doors in a suburban shopping mall.Slate (Feb 14, 2012)
+mountebank
+meaning: a flamboyant deceiver
+sentence: They are singularly clever, these Indian mountebanks, especially in sleight of hand tricks.Ballou, Maturin Murray
+fawning
+meaning: attempting to win favor by flattery
+sentence: “As any cult leader, he was extremely good at milking the rich, at flattering and fawning,” Ms. Gordon said.New York Times (Apr 16, 2010)
+hummock
+meaning: a small natural hill
+sentence: Captain Bill leaned back on a hummock of earth, his arms folded behind his head.Grayson, J. J.
+apotheosis
+meaning: model of excellence or perfection of a kind
+sentence: Contrary to popular belief, however, she said Ms. Deen’s fat-laden cooking does not in fact represent the apotheosis of Southern cuisine.New York Times (Jan 17, 2012)
+discretionary
+meaning: not earmarked; available for use as needed
+sentence: Steeper prices for basic necessities have forced many to cut back on more discretionary purchases.Washington Post (Oct 19, 2011)
+pithy
+meaning: concise and full of meaning
+sentence: As Moore isolated finer points of the passing game, Keller in neat penmanship jotted down pithy phrases and punchy quotes, basic ideas and specific concepts.New York Times (Dec 10, 2011)
+comport
+meaning: behave in a certain manner
+sentence: Ironically, the one man on stage who did comport himself with dignity, John Huntsman, is now being dismissed as having not made an impact.
+checkered
+meaning: marked by changeable fortune
+sentence: Both restaurants have checkered histories with the health department; they were temporarily shut down for sanitary violations that included evidence of rodents.New York Times (Aug 22, 2010)
+ambrosia
+meaning: the food and drink of the gods
+sentence: "Frieda represents the lovely goddess, Hebe, who served nectar and ambrosia to the high gods on Mount Olympus," she explained.Vandercook, Margaret
+factious
+meaning: dissenting with the majority opinion
+sentence: Will it be answered that we are factious, discontented spirits, striving to disturb the public order, and tear up the old fastnesses of society?Stanton, Elizabeth Cady
+disgorge
+meaning: cause or allow to flow or run out or over
+sentence: There are telephone poles and cinder blocks and living room chairs and large trash bins, overturned and disgorging their soggy contents.New York Times (Oct 28, 2011)
+filch
+meaning: make off with belongings of others
+sentence: Then, in place of the real site, it displays a fake site created  to filch account numbers, login names and passwords.New York Times (Jul 13, 2010)
+wraith
+meaning: a ghostly figure, especially one seen shortly before death
+sentence: Whichever way he turns there loom past wraiths, restless as ghosts of unburied Grecian slain.Lee, Carson Jay
+demonstrable
+meaning: capable of being proved
+sentence: The linkage between deposits and trade is definite, causal, positive, statistically demonstrable.Anderson, Benjamin M.
+pertinacious
+meaning: stubbornly unyielding
+sentence: His temper, though yielding and easy in appearance, was in reality most obstinate and pertinacious.Kavanagh, Julia
+emend
+meaning: make corrections to
+sentence: The following were identified as spelling or typographic errors and have been emended as noted.Hopper, James
+laggard
+meaning: someone who takes more time than necessary
+sentence: Corporate data centers are the slowpoke laggards of information technology.New York Times (Apr 10, 2012)
+waffle
+meaning: pause or hold back in uncertainty or unwillingness
+sentence: A few days of waffling back and forth and I ended up going out to a mediocre bistro with my parents.Scientific American (Feb 8, 2011)
+loquacious
+meaning: full of trivial conversation
+sentence: Pan soon found it needful to make conversation, in order to keep the loquacious old stage driver from talking too much.Grey, Zane
+venial
+meaning: easily excused or forgiven
+sentence: The confidence of ignorance, however venial in youth, is not altogether so excusable, in full grown men.School, A Sexton of the Old
+peon
+meaning: a laborer who is obliged to do menial work
+sentence: For the most part, the men were wiry peons, some toiling half naked, but there were a number who looked like prosperous citizens.Bindloss, Harold
+effulgence
+meaning: the quality of being bright and sending out rays of light
+sentence: Then, all at once, in a way that seemed to frighten her, the sunshine had burst the clouds, and dazzled her with its effulgence.Fenn, George Manville
+lode
+meaning: a deposit of valuable ore
+sentence: Such local perturbations are regularly used in Sweden for tracing out the position of underground lodes of iron ore.Gilbert, William
+fanfare
+meaning: a gaudy outward display
+sentence: It opened a month ago to considerable fanfare, with television cameras trailing government officials meandering proudly around the bright new stores filled with imported goods.New York Times (Aug 22, 2010)
+dilettante
+meaning: showing frivolous or superficial interest; amateurish
+sentence: They dabbled in politics and art in the same dilettante fashion.Cannan, Gilbert
+pusillanimous
+meaning: lacking in courage, strength, and resolution
+sentence: He was described by his friends as pusillanimous to an incredible extent, timid from excess of riches, afraid of his own shadow.Motley, John Lothrop
+ingrained
+meaning: deeply rooted; firmly fixed or held
+sentence: The narrow prejudices of his country were ingrained too deeply in his character to be disturbed by any change of surroundings.Fuller, Robert H.
+quagmire
+meaning: a soft wet area of low-lying land that sinks underfoot
+sentence: The heavy rain had reduced this low-lying ground to a veritable quagmire, making progress very difficult even for one as unburdened as he was.Putnam Weale, B. L. (Bertram Lenox)
+reprobation
+meaning: severe disapproval
+sentence: Mr. Conway denounced this scheme as "utterly and flagrantly unconstitutional, as radically revolutionary in character and deserving the reprobation of every loyal citizen."Blaine, James Gillespie
+mannered
+meaning: having unnatural behavioral attributes
+sentence: Nothing was mannered or pretentious; the texts came through with utter naturalness.New York Times (May 29, 2011)
+squeamish
+meaning: easily disturbed or disgusted by unpleasant things
+sentence: But please note that this gunfire-fueled film is for mature audiences; given its content, young and/or squeamish viewers should avoid this one.Washington Post (Aug 6, 2010)
+proclivity
+meaning: a natural inclination
+sentence: She received, under her father's supervision, a very careful education, and developed her proclivities for literary composition at an early age.Adams, W. H. Davenport
+miserly
+meaning: characterized by or indicative of lack of generosity
+sentence: Now, my uncle seemed so miserly that I was struck dumb by this sudden generosity, and could find no words in which to thank him.Stevenson, Robert Louis
+vapid
+meaning: lacking significance or liveliness or spirit or zest
+sentence: How vapid was the talk of my remaining fellow-passengers; how slow of understanding, and how preoccupied with petty things they seemed!Dawson, A. J. (Alec John)
+mercurial
+meaning: liable to sudden unpredictable change
+sentence: Wind energy is notoriously mercurial, with patterns shifting drastically over the course of years, days, even minutes.Scientific American (Jan 4, 2012)
+perspicuous
+meaning: transparently clear; easily understandable
+sentence: The statements are plain and simple, a perfect model of perspicuous narrative.Smith, Uriah
+nonplus
+meaning: be a mystery or bewildering to
+sentence: I shook my head and rushed from his presence, completely nonplussed, bewildered, frantic.Cole, E. W. (Edward William)
+enamor
+meaning: attract
+sentence: Young Indian audiences are so enamored with reality television that they will not watch the soap operas and dramas that their parents or grandparents watch.New York Times (Jan 9, 2011)
+hackneyed
+meaning: repeated too often; overfamiliar through overuse
+sentence: Many speakers become so addicted to certain hackneyed phrases that those used to hearing them speak can see them coming sentences away.Lewis, Arthur M. (Arthur Morrow)
+spate
+meaning: a large number or amount or extent
+sentence: French authorities are already reporting a rising spate of calls to emergency services by homeowners whose once-frozen water mains have now burst.
+pedagogue
+meaning: someone who educates young people
+sentence: His old pedagogue, Mr. Brownell, had been unable to teach him mathematics.Pierce, H. Winthrop
+acme
+meaning: the highest level or degree attainable
+sentence: Scientifically speaking, it is the acme of absurdity to talk of a man defying the law of gravitation when he lifts his arm.Huxley, Thomas H.
+masticate
+meaning: bite and grind with the teeth
+sentence: Food should be masticated quietly, and with the lips closed.Cooke, Maud C.
+sinecure
+meaning: a job that involves minimal duties
+sentence: He would have repudiated the notion that he was looking for a sinecure, but no doubt considered that the duties would be easy and light.Trollope, Anthony
+indite
+meaning: produce a literary work
+sentence: She indited religious poems which were the admiration of the age.Brittain, Alfred
+emetic
+meaning: a medicine that induces nausea and vomiting
+sentence: The juice of this herb, taken in ale, is esteemed a gentle and very good emetic, bringing on vomiting without any great irritation or pain.Smith, John Thomas
+temporize
+meaning: draw out a discussion or process in order to gain time
+sentence: So he temporized and beat about the bush, and did not touch first on that which was nearest his heart.Erskine, Payne
+unimpeachable
+meaning: beyond doubt or reproach
+sentence: Whether we agree with the conclusions of these writers or not, the method of critical investigation which they adopt is unimpeachable.Huxley, Thomas H.
+genesis
+meaning: a coming into being
+sentence: He found himself speculating on the genesis of the moral sense, how it developed in difficulties rather than in ease.Miller, Alice Duer
+mordant
+meaning: harshly ironic or sinister
+sentence: Even Morgan himself, intrepid as he was, shrank from the awful menace of the mordant words.Crawford, Will
+smattering
+meaning: a small number or amount
+sentence: Only a smattering of fans remained for all four ghastly quarters.Washington Post (Sep 24, 2011)
+suavity
+meaning: the quality of being charming and gracious in manner
+sentence: His combativeness was harnessed to his suavity, and he could be forcible and at the same time persuasive.Windsor, William
+stentorian
+meaning: very loud or booming
+sentence: If a hundred voices shouted in opposition, his stentorian tones still made themselves heard above the uproar.J?kai, M?r
+junket
+meaning: a trip taken by an official at public expense
+sentence: Mr. Abramoff arranged for junkets, including foreign golfing destinations, for the members of Congress he was trying to influence.New York Times (Feb 26, 2010)
+appurtenance
+meaning: a supplementary component that improves capability
+sentence: In the center of this space stood a large frame building whose courtyard, stables, and other appurtenances proclaimed it an inn.Madison, Lucy Foster
+nostrum
+meaning: patent medicine whose efficacy is questionable
+sentence: Just here a native "medicine man" dispenses nostrums of doubtful efficacy, and in front a quantity of red Moorish pottery is exposed for sale.Meakin, Budgett
+immure
+meaning: lock up or confine, in or as in a jail
+sentence: Political prisoners, numbering as many as three or four hundred at a time, have been immured within its massive walls.Boyd, Mary Stuart
+astringent
+meaning: acidic or bitter in taste or smell
+sentence: There was something sharply astringent about her then, like biting inadvertently into a green banana.McFee, William
+unfaltering
+meaning: marked by firm determination or resolution; not shakable
+sentence: Still unfaltering, the procession commenced to trudge back, the littlest boy and girl bearing themselves bravely, with lips tight pressed.Sabin, Edwin L. (Edwin Legrand)
+tutelage
+meaning: attention and management implying responsibility for safety
+sentence: It will do so under German leadership that grows less hesitant with each crisis, and without the American tutelage it enjoyed for so many decades.Newsweek (Jan 23, 2011)
+testator
+meaning: a person who makes a will
+sentence: This will was drawn up by me some years since at the request of the testator, who was in good health, mentally and bodily.Henty, G. A. (George Alfred)
+elysian
+meaning: of such excellence as to suggest inspiration by the gods
+sentence: Life seemed an elysian dream, from which care and sorrow must be for ever banished.Hentz, Caroline Lee
+fulminate
+meaning: criticize severely
+sentence: But with people looking for almost any excuse to fulminate against airlines these days, there's a certain risk of embellishment.
+fractious
+meaning: easily irritated or annoyed
+sentence: He was a fractious invalid, and spared his wife neither time nor trouble in attending to his wants.Brazil, Angela
+pummel
+meaning: strike, usually with the fist
+sentence: Another, with rubber bands wrapped tightly around his face, is pummelled by a plastic boxing kangaroo.
+manumit
+meaning: free from slavery or servitude
+sentence: Moreover, manumitted slaves enjoyed the same rights, privileges and immunities that were enjoyed by those born free.Various
+unexceptionable
+meaning: completely acceptable; not open to reproach
+sentence: All cowboys are from necessity good cooks, and the fluffy, golden brown biscuits and fragrant coffee of Red's making were unexceptionable.Mayer, Frank
+triumvirate
+meaning: a group of three people responsible for civil authority
+sentence: This triumvirate approach has real benefits in terms of shared wisdom, and we will continue to discuss the big decisions among the three of us.
+sybarite
+meaning: a person addicted to luxury and pleasures of the senses
+sentence: He was not used to travelling on omnibuses, being something of a sybarite who spared nothing to ensure his own comfort.Wallace, Edgar
+jibe
+meaning: be compatible, similar, or consistent
+sentence: Contemporary art has never quite jibed with mainstream media.
+magisterial
+meaning: offensively self-assured or exercising unwarranted power
+sentence: “Now look here,” he said, making believe to take down my words and shaking his pencil at me in a magisterial way.Fenn, George Manville
+roseate
+meaning: of something having a dusty purplish pink color
+sentence: Behind the trees rough, lichened rock and stony slopes ran up to a bare ridge, silhouetted against the roseate glow of the morning sky.Bindloss, Harold
+obloquy
+meaning: abusive, malicious, and condemnatory language
+sentence: This is the real history of a transaction which, by frequent misrepresentation, has brought undeserved obloquy upon a generous man.Purchas, H. T. (Henry Thomas)
+hoodwink
+meaning: influence by slyness
+sentence: The stories of the saints he regarded as preposterous fables invented to hoodwink a gullible and illiterate populace.
+striate
+meaning: mark with stripes of contrasting color
+sentence: The body is striated with clearly defined, often depressed lines, which run longitudinally and sometimes spirally.Calkins, Gary N. (Gary Nathan)
+arrogate
+meaning: seize and take control without authority
+sentence: Japanese manufacturers were accused of arrogating American technologies to churn out low-cost electronics.New York Times (May 25, 2010)
+rarefied
+meaning: of high moral or intellectual value
+sentence: The debate over climate science has involved very complex physical models and rarefied areas of scientific knowledge.New York Times (Apr 9, 2011)
+chary
+meaning: characterized by great caution
+sentence: There was no independent verification of the figure; the authorities have been chary of releasing death tolls for fear of inflaming further violence.New York Times (Apr 24, 2011)
+credo
+meaning: any system of principles or beliefs
+sentence: She preferred to hang out with everyone but was best friends with no one, holding to the credo: “You should be nice to people.”New York Times (Jan 21, 2011)
+superannuated
+meaning: too old to be useful
+sentence: Civil servants are superannuated at fifty-five years of age and are sent home on a pension, seldom enjoying life longer than two years afterward.Hunt, Eleonora
+impolitic
+meaning: lacking tact, shrewdness, or prudence
+sentence: Bill Maher has always been a vocal critic of Islam, even at times making impolitic statements about the religion.
+aspersion
+meaning: a disparaging remark
+sentence: Lord Sanquhar then proceeded to deny the aspersion that he was an ill-natured fellow, ever revengeful, and delighting in blood.Thornbury, Walter
+abysmal
+meaning: exceptionally bad or displeasing
+sentence: After all, many Americans regard this Congress as dysfunctional, with abysmal approval ratings.New York Times (Dec 28, 2011)
+poignancy
+meaning: a quality that arouses emotions, especially pity or sorrow
+sentence: They were curious about the “near loss” experience—specifically the feelings of poignancy that occur when what we cherish disappears.Scientific American (Jan 17, 2011)
+stilted
+meaning: artificially formal
+sentence: But thanks to the stilted writing and stiff acting, the characters still feel very much like one-dimensional figures from a dutiful fable.New York Times (Jul 12, 2011)
+effete
+meaning: excessively self-indulgent, affected, or decadent
+sentence: John Bull was an effete old plutocrat whose sons and daughters were given up to sport and amusement.Moffett, Cleveland
+provender
+meaning: food for domestic livestock
+sentence: "Fools!" she cried, looking in her magic crystal, "he was in the big sycamore under which you stopped to give your horses provender!"Housman, Laurence
+endemic
+meaning: of a disease constantly present in a particular locality
+sentence: Mean-spirited chants and songs are also endemic in British soccer.New York Times (Jan 27, 2012)
+jocund
+meaning: full of or showing high-spirited merriment
+sentence: Her jocund laugh and merry voice, indeed, first attracted my attention.Lever, Charles James
+procedural
+meaning: of or relating to processes
+sentence: In other words, the rejection was a bureaucratic/ procedural decision.Scientific American (Feb 1, 2012)
+rakish
+meaning: marked by a carefree unconventionality or disreputableness
+sentence: She wore her red cap in a rakish manner on the side of her head, its tassel falling down over her forehead between her eyes.Sage, William
+skittish
+meaning: unpredictably excitable, especially of horses
+sentence: That combined with his calm and reassuring tone made me think of an animal trainer trying to woo skittish wild animals.
+peroration
+meaning: a flowery and highly rhetorical address
+sentence: He had little hope that Gallagher, once embarked on a peroration, would stop until he had used up all the words at his command.Birmingham, George A.
+nonentity
+meaning: a person of no influence
+sentence: Was he such a nonentity in every way that she could remain unconcerned as to any fear of danger from him?Woolson, Constance Fenimore
+abstemious
+meaning: marked by temperance in indulgence
+sentence: Raw, boozy, untethered performances are heralded as real; the abstemious professional is yawned off the stage.
+viscid
+meaning: having the sticky properties of an adhesive
+sentence: Roads were quagmires where travellers slipped and laboured through viscid mud and over icy fords.Buck, Charles Neville
+doggerel
+meaning: a comic verse of irregular measure
+sentence: He sang, with accompanying action, some dozen verses of doggerel, remarkable for obscenity and imbecility. Ritchie, J. Ewing (James Ewing)
+sleight
+meaning: adroitness in using the hands
+sentence: The trick was performed Tuesday by Russell Fitzgerald, an amateur magician known to open meetings with a little sleight of hand.Washington Post (Sep 29, 2011)
+rubric
+meaning: category name
+sentence: Ms. Moss took issue, not surprisingly, with the notion that grouping the performances under the rubric of spirituality was a marketing ploy.New York Times (Nov 22, 2010)
+plenitude
+meaning: a full supply
+sentence: Of course at that season, amid the plenitude of seeds, nuts, and berries, they were as plump as partridges.Reid, Mayne
+rebus
+meaning: a puzzle consisting of pictures representing words
+sentence: They wrote at times with pictures standing for sounds, as we now write in rebus puzzles.Park, Robert Ezra
+wizened
+meaning: lean and wrinkled by shrinkage as from age or illness
+sentence: Kim Jong Il may be increasingly wizened and frail, with fingernails white from kidney disease, but his propaganda apparatus is as vigorous as ever.Wall Street Journal (Mar 26, 2010)
+whorl
+meaning: a round shape formed by a series of concentric circles
+sentence: The flowers are waxy, tubular, fragrant, turning their yellow petals backward in a whorl.Rogers, Julia Ellen
+fracas
+meaning: a noisy quarrel
+sentence: Other cops were battling each other, going after the kids and clutching empty air, cursing and screaming unheard orders in the fracas.Freas, Kelly
+iconoclast
+meaning: someone who attacks cherished ideas or institutions
+sentence: Jobs is a classic iconoclast, one who aggressively seeks out, attacks, and overthrows conventional ideas.BusinessWeek (Oct 12, 2010)
+saturnine
+meaning: bitter or scornful
+sentence: Only when Bill Lightfoot spoke did he look up, and then with a set sneer, growing daily more saturnine.Dixon, Maynard
+madrigal
+meaning: an unaccompanied partsong for several voices
+sentence: Nevertheless we learn from Malvezzi's publication that the pieces were all written in the madrigal style, frequently in numerous voice parts.Henderson, W. J. (William James)
+discursive
+meaning: tending to cover a wide range of subjects
+sentence: “Tabloid,” like his previous films, consists largely of long, discursive conversations — in effect monologues directed at an unseen, mostly unheard interlocutor.New York Times (Jul 22, 2011)
+zealot
+meaning: a fervent and even militant proponent of something
+sentence: "The public is going to just think of us as these zealots who want to ban smoking everywhere," he said.Seattle Times (Feb 20, 2011)
+moribund
+meaning: not growing or changing; without force or vitality
+sentence: The entertainment sector there is booming, while Pakistan's is moribund.Seattle Times (Dec 3, 2011)
+modicum
+meaning: a small or moderate or token amount
+sentence: He volunteered a modicum of advice, limited in quantity, but valuable.Bolderwood, Rolf
+connotation
+meaning: an idea that is implied or suggested
+sentence: In Arabic, the word “bayt” translates literally as house, but its connotations resonate beyond rooms and walls, summoning longings gathered about family and home.New York Times (Feb 18, 2012)
+adventitious
+meaning: associated by chance and not an integral part
+sentence: The derivation of the word thus appears to be merely accidental and adventitious.Stace, W. T. (Walter Terence)
+recondite
+meaning: difficult to understand
+sentence: The mystery of verse is like other abstruse and recondite mysteries—it strikes the ordinary fleshly man as absurd.Gosse, Edmund
+zephyr
+meaning: a slight wind
+sentence: The dwellings and public buildings throughout Cuba are planned to give free passage to every zephyr that wafts relief from the oppressive heat.Various
+countermand
+meaning: cancel officially
+sentence: In the midst of executing this order, he got another order countermanding it, and proceeding directly from his direct superior.Belloc, Hilaire
+captious
+meaning: tending to find and call attention to faults
+sentence: Miss Burton had been very irritable and captious in class, more so even than usual, and most of her anger was vented upon Gerry.Chaundler, Christine
+cognate
+meaning: having the same ancestral language
+sentence: The synonyms are also given in the cognate dialects of Welsh, Armoric, Irish, Gaelic, and Manx, showing at one view the connection between them. Jenner, Henry
+forebear
+meaning: a person from whom you are descended
+sentence: His forebears were Greek immigrants who opened a small sandwich shop in Brooklyn, then moved, one after another, to Providence, to sell distinct, delectable wieners.New York Times (Sep 24, 2010)
+cadaverous
+meaning: very thin especially from disease or hunger or cold
+sentence: He looked gaunt and cadaverous, and much of his old reckless joyousness had left him, though he brightened up wonderfully on seeing an old friend.Doyle, A. Conan
+foist
+meaning: force onto another
+sentence: Mr. Knoll added that the 3-D “Star Wars” movies are not “going to be foisted on anybody against their will.”New York Times (Sep 29, 2010)
+dotage
+meaning: mental infirmity as a consequence of old age
+sentence: He is, as you say, a senile old man in his dotage.Wilcox, Ella Wheeler
+nexus
+meaning: a connected series or group
+sentence: Numerous innovators are also worrying away at this nexus of problems.
+choleric
+meaning: characterized by anger
+sentence: Jonathan, choleric with indignation, stood by his desk, clenching his hands.Mills, Weymer Jay
+garble
+meaning: distort or make false by mutilation or addition
+sentence: But the fact remains that the contradictory and inconsistent things said do reach the public, and usually in garbled and distorted form.Unknown
+bucolic
+meaning: idyllically rustic
+sentence: Forty-four years ago, Bill Sievers moved into his neo-Colonial house in Douglaston, Queens, on bucolic Poplar Street, lined with stately trees and equally stately homes.New York Times (Mar 26, 2012)
+denouement
+meaning: the outcome of a complex sequence of events
+sentence: Suppose the truly apocalyptic denouement happens -- no deal is reached, and taxes rise for everyone.
+animus
+meaning: a feeling of ill will arousing active hostility
+sentence: The youthful savages had each an armful of snowballs, and they were pelting the child with more animus than seemed befitting.Murray, David Christie
+overweening
+meaning: unrestrained, especially with regard to feelings
+sentence: He had overweening ambitions even then, along with a highly developed sense of his own importance.New York Times (Apr 19, 2010)
+tyro
+meaning: someone new to a field or activity
+sentence: As yet he was merely a tyro, gaining practical experience under a veteran Zeppelin commander.Westerman, Percy F. (Percy Francis)
+preen
+meaning: dress or groom with elaborate care
+sentence: He preened on fight nights in a tuxedo, a bow tie and no shirt, and he favored showy rings and bracelets.New York Times (Jul 24, 2011)
+largesse
+meaning: liberality in bestowing gifts
+sentence:After being saved by government largesse, they say, big banks then moved to thwart reforms aimed at preventing future meltdowns caused by excessive risk-taking.New York Times (Jul 14, 2011)
+retentive
+meaning: good at remembering
+sentence:The child was very sharp, and her memory was extremely retentive.Rowlands, Effie Adelaide
+unconscionable
+meaning: greatly exceeding bounds of reason or moderation
+sentence:For generations in the New York City public schools, this has become the norm with devastating consequences rooted in unconscionable levels of student failure.New York Times (Nov 4, 2011)
+badinage
+meaning: frivolous banter
+sentence:It was preposterous to talk to her of serious things, and nothing but an airy badinage seemed possible in her company.Maugham, W. Somerset (William Somerset)
+insensate
+meaning: devoid of feeling and consciousness and animation
+sentence:Men also are those brutal soldiers, alike stupidly ready, at the word of command, to drive the nail through quivering flesh or insensate wood.Stowe, Harriet Beecher
+sherbet
+meaning: a frozen dessert made primarily of fruit juice and sugar
+sentence:"One person said it looks like a big lime sherbet ice cream cone!"Southern Living (Apr 28, 2010)
+beatific
+meaning: resembling or befitting an angel or saint
+sentence:She dozed at last, her face serene and beatific.Beach, Rex Ellingwood
+microcosm
+meaning: a miniature model of something
+sentence: The building, he said, is "a microcosm of what Shanghai was all about."Wall Street Journal (Apr 30, 2010)
+factitious
+meaning: not produced by natural forces; artificial or fake
+sentence: Indeed, the Chinese make a factitious cheese out of peas, which it is difficult to discriminate from the article of animal origin.Cameron, Charles Alexander, Sir
+gestate
+meaning: develop in the mind; have the idea for
+sentence: Mr. Lucas’s most recent project, still gestating, is a collaboration with Cuban musicians.New York Times (May 9, 2011)
+traduce
+meaning: speak unfavorably about
+sentence: For Grover Cleveland there were no longer enemies to traduce and vilify.Straus, Oscar S.
+sextant
+meaning: an instrument for measuring angular distance
+sentence: For example, a sextant could be used to sight the sun at high noon in order to determine one’s latitude.Scientific American (Mar 8, 2012)
+coiffure
+meaning: the arrangement of the hair
+sentence: They sat down, and Saint-Clair noticed his friend's coiffure; a single rose was in her hair.M?rim?e, Prosper
+malleable
+meaning: easily influenced
+sentence: “The Americans are seen as naïve malleable tools in the hands of the Brits.”New York Times (Nov 30, 2011)
+rococo
+meaning: having excessive asymmetrical ornamentation
+sentence: The upper part of the case is decorated with elaborately carved and gilt rococo motifs.Bedini, Silvio A.
+fructify
+meaning: become productive or fruitful
+sentence: Thence they grow, expand, fructify, and the result is Progress.Stanton, Elizabeth Cady
+nihilist
+meaning: someone who rejects all theories of morality
+sentence: “He’s a loner nihilist who believes in nothing,” Mr. Lu said.New York Times (Nov 6, 2011)
+ellipsis
+meaning: omission or suppression of parts of words or sentences
+sentence: He speaks in ellipses, often leaving sentences hanging, and fiddles apologetically with his BlackBerry.
+accolade
+meaning: a tangible symbol signifying approval or distinction
+sentence: The Nobel Prize, considered one of the highest accolades in literature, is given only to living writers.Seattle Times (Oct 6, 2011)
+codicil
+meaning: a supplement to a will
+sentence: The codicil to her will, which she had spoken of with so much composure, left three hundred pounds to Stella and me.Fothergill, Jessie
+roil
+meaning: be agitated
+sentence: Like thousands of fellow students, he was roiled with emotions, struggling to come to grips with an inescapable reality.New York Times (Nov 26, 2011)
+grandiloquent
+meaning: lofty in style
+sentence: A large part of his duties will be to strut about on the stage, and mouth more or less unintelligible sentences in a grandiloquent tone.Smith, Arthur H.
+inconsequential
+meaning: lacking worth or importance
+sentence: But as the months went by, Mr. Kimura had an unexpected epiphany: His business, which he thought was inconsequential, mattered to a lot of people.
+effervescence
+meaning: the property of giving off bubbles
+sentence: Both were in the very sparkle and effervescence of that fanciful glee which bubbles up from the golden, untried fountains of early childhood.Stowe, Harriet Beecher
+stultify
+meaning: deprive of strength or efficiency; make useless or worthless
+sentence: Far from being engines of economic growth, Egypt's leading cities are stultified.
+tureen
+meaning: large deep serving dish with a cover
+sentence: Soups are presented in big tureens and can be quite good.New York Times (Apr 13, 2012)
+pellucid
+meaning: transparently clear; easily understandable
+sentence: Caribou Island is a scant 300 pages, and written in prose as pellucid as the rivers he used to fish as a boy.
+euphony
+meaning: any pleasing and harmonious sounds
+sentence: It depends somewhat on usage and on euphony or agreeableness of sound.Hamilton, Frederick W. (Frederick William)
+apocryphal
+meaning: being of questionable authenticity
+sentence: We're reminded of the story, possibly apocryphal, that they used to play the Beach Boys' Smiley Smile in psychiatric wards to calm patients.
+veracious
+meaning: precisely accurate
+sentence: For proof, we cite the following veracious narrative, which bears within it every internal mark of truth, and matter for grave and serious reflection.Roby, John
+pendulous
+meaning: hanging loosely or bending downward
+sentence: And all around, far out of reach, the trees of the forest were swaying restlessly, their long, pendulous branches, like tentacles, lashing out hungrily.Bates, Harry
+exegesis
+meaning: an explanation or critical interpretation
+sentence: Its musical significance has been presented with illuminating exegesis by more than one commentator.Forkel, Johann Nikolaus
+effluvium
+meaning: a foul-smelling outflow or vapor
+sentence: However, acting on my best judgment, I struck a downward course, and then suddenly a horrible effluvium was wafted to my nostrils.Mitford, Bertram
+apposite
+meaning: being of striking appropriateness and pertinence
+sentence: He was quite capable of meaningful, apposite phrases about the game, even though distant sports editors did not encourage them enough.
+viscous
+meaning: having the sticky properties of an adhesive
+sentence: Sluggish, blind crawling things like three-foot slugs flowed across their path and among the tree trunks, leaving viscous trails of slime behind them.Various
+misanthrope
+meaning: someone who dislikes people in general
+sentence: And shaking his head like a misanthrope, disgusted, if not with life, at least with men, Patout led the horse to the stable.Dumas père, Alexandre
+vintner
+meaning: someone who makes wine
+sentence: The question remains, he said, whether established vintners will change their winemaking practices or “continue to sell their schlock.”New York Times (Oct 27, 2010)
+halcyon
+meaning: idyllically calm and peaceful; suggesting happy tranquility
+sentence: He now seemed to have entered on a halcyon period of life—congenial society, romantic and interesting surroundings.Kennard, Nina H.
+anthropomorphic
+meaning: suggesting human features for animals or inanimate things
+sentence: The same anthropomorphic fallacy that accords human attributes to giant corporations like BP distorts clear thinking about how to limit their political influence.
+turgid
+meaning: ostentatiously lofty in style
+sentence: His waspish wit can make him entertaining company at a party, but there is little evidence of that in his largely turgid prose.
+malaise
+meaning: a general feeling of discomfort, uneasiness, or depression
+sentence: Initially, many doctors discounted sufferers’ feelings of generalized malaise as nothing more than stress or normal fatigue.
+polemical
+meaning: of or involving dispute or controversy
+sentence: His works include several dogmatic and polemical treatises, but the most important are the historical.Various
+gadfly
+meaning: a persistently annoying person
+sentence: Mr. Phelps is regarded here as the ultimate example of an irritating local gadfly.New York Times (Oct 9, 2010)
+atavism
+meaning: a reappearance of an earlier characteristic
+sentence: Criminal atavism might be defined as the sporadic reversion to savagery in certain individuals.Symonds, John Addington
+contusion
+meaning: an injury in which the skin is not broken
+sentence: My falling companion, being a much stouter man than myself did not fare so well, as his right shoulder received a severe contusion.Bevan, A. Beckford
+parsimonious
+meaning: excessively unwilling to spend
+sentence: Pill-splitting is catching on among parsimonious prescription-takers who want to lower costs.
+dulcet
+meaning: pleasing to the ear
+sentence: Ever and anon the dulcet murmur of gurgling streams broke gently on the ear.Madison, Lucy Foster
+reprise
+meaning: repeat an earlier theme of a composition
+sentence: The live set reprises material from this remarkable group's earlier Aurora CD.
+anodyne
+meaning: capable of relieving pain
+sentence: But philosophy failed, as it will probably fail till some far-off age, to find an anodyne for the spiritual distresses of the mass of men.Dill, Samuel
+bemused
+meaning: perplexed by many conflicting situations or statements
+sentence: They were marching in the middle of the street, chanting and singing and disrupting traffic while countless New Yorkers looked on, some bemused, others applauding.
+tenderness
+meaning: the quality of being easy to cut or chew; succulence.
+sentence: "steak braised to perfect tenderness in a red-wine-and-brandy sauce"
